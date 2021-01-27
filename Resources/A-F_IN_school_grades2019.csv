@@ -1,2159 +1,290 @@
-﻿Corp,Corp Name,School,School Name,2019 Hold Harmless Grade
-0015,Adams Central Community Schools,0013,Adams Central Middle School,A
-0015,Adams Central Community Schools,0020,Adams Central Elementary School,C
-0015,Adams Central Community Schools,0021,Adams Central High School,A
-0025,North Adams Community Schools,0029,Bellmont Senior High School,A
-0025,North Adams Community Schools,0033,Bellmont Middle School,B
-0025,North Adams Community Schools,0037,Bellmont Elementary ,C
-0035,South Adams Schools,0017,South Adams Middle School,B
-0035,South Adams Schools,0023,South Adams High School,A
-0035,South Adams Schools,0025,South Adams Elementary School,A
-0125,M S D Southwest Allen County Schls,0045,Aboite Elementary School,B
-0125,M S D Southwest Allen County Schls,0046,Whispering Meadow Elementary Sch,C
-0125,M S D Southwest Allen County Schls,0047,Homestead Senior High School,A
-0125,M S D Southwest Allen County Schls,0063,Summit Middle School,A
-0125,M S D Southwest Allen County Schls,0064,Lafayette Meadow School,B
-0125,M S D Southwest Allen County Schls,0067,Woodside Middle School,A
-0125,M S D Southwest Allen County Schls,0068,Haverhill Elementary School,D
-0125,M S D Southwest Allen County Schls,0071,Deer Ridge Elementary,B
-0125,M S D Southwest Allen County Schls,0072,Covington Elementary School,B
-0225,Northwest Allen County Schools,0069,Arcola School,B
-0225,Northwest Allen County Schools,0079,Maple Creek Middle School,A
-0225,Northwest Allen County Schools,0087,Hickory Center Elementary School,C
-0225,Northwest Allen County Schools,0089,Huntertown Elementary School,C
-0225,Northwest Allen County Schools,0090,Carroll Middle School,B
-0225,Northwest Allen County Schools,0091,Carroll High School,A
-0225,Northwest Allen County Schools,0092,Perry Hill Elementary School,A
-0225,Northwest Allen County Schools,0094,Oak View Elementary School,B
-0225,Northwest Allen County Schools,0095,Cedar Canyon Elementary School,B
-0225,Northwest Allen County Schools,0096,Eel River Elementary School,B
-0235,Fort Wayne Community Schools,0101,North Side High School,B
-0235,Fort Wayne Community Schools,0102,R Nelson Snider High School,B
-0235,Fort Wayne Community Schools,0105,South Side High School,C
-0235,Fort Wayne Community Schools,0107,Blackhawk Middle School,C
-0235,Fort Wayne Community Schools,0118,Jeff H Towles Intermediate School,C
-0235,Fort Wayne Community Schools,0119,Jefferson Middle School,C
-0235,Fort Wayne Community Schools,0121,Kekionga Middle School,D
-0235,Fort Wayne Community Schools,0125,Lakeside Middle School,C
-0235,Fort Wayne Community Schools,0126,Lane Middle School,D
-0235,Fort Wayne Community Schools,0127,Memorial Park Middle School,B
-0235,Fort Wayne Community Schools,0128,Miami Middle School,D
-0235,Fort Wayne Community Schools,0129,Northwood Middle School,D
-0235,Fort Wayne Community Schools,0133,Portage Middle School,D
-0235,Fort Wayne Community Schools,0134,Weisser Park Elementary School,B
-0235,Fort Wayne Community Schools,0136,Fairfield Elementary School,B
-0235,Fort Wayne Community Schools,0137,Merle J Abbett Elementary School,F
-0235,Fort Wayne Community Schools,0141,Adams Elementary School,B
-0235,Fort Wayne Community Schools,0149,Bloomingdale Elementary School,F
-0235,Fort Wayne Community Schools,0151,Bunche Elementary School,C
-0235,Fort Wayne Community Schools,0153,Brentwood Elementary School,B
-0235,Fort Wayne Community Schools,0154,Fred H Croninger Elementary School,A
-0235,Fort Wayne Community Schools,0157,Forest Park Elementary School,C
-0235,Fort Wayne Community Schools,0161,Franke Park Elementary School,C
-0235,Fort Wayne Community Schools,0162,Glenwood Park Elementary School,B
-0235,Fort Wayne Community Schools,0164,J Wilbur Haley Elementary School,C
-0235,Fort Wayne Community Schools,0177,Wayne High School,B
-0235,Fort Wayne Community Schools,0178,Harrison Hill Elementary School,C
-0235,Fort Wayne Community Schools,0186,Mabel K Holland Elementary School,A
-0235,Fort Wayne Community Schools,0189,Indian Village Elementary School,C
-0235,Fort Wayne Community Schools,0193,John S Irwin Elementary School,C
-0235,Fort Wayne Community Schools,0197,Lindley Elementary School,C
-0235,Fort Wayne Community Schools,0205,Maplewood Elementary School,C
-0235,Fort Wayne Community Schools,0209,Willard Shambaugh Elementary Sch,C
-0235,Fort Wayne Community Schools,0217,Northcrest Elementary School,C
-0235,Fort Wayne Community Schools,0219,Northrop High School,B
-0235,Fort Wayne Community Schools,0221,Francis M Price Elementary School,B
-0235,Fort Wayne Community Schools,0233,Saint Joseph Central School,B
-0235,Fort Wayne Community Schools,0239,Robert C Harris Elementary School,B
-0235,Fort Wayne Community Schools,0240,Shawnee Middle School,D
-0235,Fort Wayne Community Schools,0241,Whitney M Young Early Childhood,B
-0235,Fort Wayne Community Schools,0249,Levan R Scott Academy,F
-0235,Fort Wayne Community Schools,0253,South Wayne Elementary School,C
-0235,Fort Wayne Community Schools,0257,Study Elementary School,D
-0235,Fort Wayne Community Schools,0265,Washington Elementary School,B
-0235,Fort Wayne Community Schools,0269,Washington Center Elementary Sch,B
-0235,Fort Wayne Community Schools,0270,Lincoln Elementary School,B
-0235,Fort Wayne Community Schools,0273,Waynedale Elementary School,D
-0235,Fort Wayne Community Schools,0275,Arlington Elementary School,B
-0255,East Allen County Schools,0043,Prince Chapman Academy,D
-0255,East Allen County Schools,0049,Leo Junior/Senior High School,A
-0255,East Allen County Schools,0053,Leo Elementary School,A
-0255,East Allen County Schools,0081,Heritage Jr/Sr High School,B
-0255,East Allen County Schools,0083,New Haven Primary School,B
-0255,East Allen County Schools,0281,Heritage Elementary School,B
-0255,East Allen County Schools,0285,Woodlan Jr/Sr High School,B
-0255,East Allen County Schools,0291,Cedarville Elementary School,A
-0255,East Allen County Schools,0294,Paul Harding Jr High School,C
-0255,East Allen County Schools,0297,New Haven High School,B
-0255,East Allen County Schools,0301,New Haven Middle School,B
-0255,East Allen County Schools,0305,New Haven Intermediate School,B
-0255,East Allen County Schools,0310,Southwick Elementary School,D
-0255,East Allen County Schools,0323,Woodlan Elementary School,A
-0255,East Allen County Schools,0394,East Allen University,A
-0365,Bartholomew Con School Corp,0328,Clifty Creek Elementary School,C
-0365,Bartholomew Con School Corp,0346,CSA Lincoln Campus,A
-0365,Bartholomew Con School Corp,0353,Mount Healthy Elementary School,B
-0365,Bartholomew Con School Corp,0357,Parkside Elementary School,B
-0365,Bartholomew Con School Corp,0363,W D Richards Elementary School,A
-0365,Bartholomew Con School Corp,0366,Rockcreek Elementary School,A
-0365,Bartholomew Con School Corp,0369,Lillian Schmitt Elementary School,C
-0365,Bartholomew Con School Corp,0371,L F Smith Elementary,B
-0365,Bartholomew Con School Corp,0375,CSA Fodrea Campus,B
-0365,Bartholomew Con School Corp,0377,Taylorsville Elementary School,C
-0365,Bartholomew Con School Corp,0390,Central Middle School,C
-0365,Bartholomew Con School Corp,0392,Southside Elementary School,B
-0365,Bartholomew Con School Corp,0395,Northside Middle School,B
-0365,Bartholomew Con School Corp,0397,Columbus North High School,B
-0365,Bartholomew Con School Corp,0399,Columbus East High School,B
-0370,Flat Rock-Hawcreek School Corp,0409,Hope Elementary School,B
-0370,Flat Rock-Hawcreek School Corp,0410,Hauser Jr-Sr High School,B
-0395,Benton Community School Corp,0421,Otterbein Elementary School,B
-0395,Benton Community School Corp,0433,Boswell Elementary School,C
-0395,Benton Community School Corp,0445,Benton Central Jr-Sr High School,B
-0395,Benton Community School Corp,0446,Prairie Crossing Elementary School,C
-0515,Blackford County Schools,0485,Montpelier School,B
-0515,Blackford County Schools,0489,Blackford High School,B
-0515,Blackford County Schools,0491,Blackford Junior High School,C
-0515,Blackford County Schools,0494,North Side Elementary School,A
-0515,Blackford County Schools,0501,Southside Elementary School,A
-0615,Western Boone Co Com Sch Dist,0521,Granville Wells Elementary School,B
-0615,Western Boone Co Com Sch Dist,0537,Thorntown Elementary School,B
-0615,Western Boone Co Com Sch Dist,0539,Western Boone Jr-Sr High School,B
-0630,Zionsville Community Schools,0510,Zionsville West Middle School,A
-0630,Zionsville Community Schools,0511,Zionsville Middle School,A
-0630,Zionsville Community Schools,0512,Zionsville Community High School,A
-0630,Zionsville Community Schools,0514,Eagle Elementary School,A
-0630,Zionsville Community Schools,0517,Zionsville Pleasant View Elem Sch,A
-0630,Zionsville Community Schools,0541,Union Elementary School,A
-0630,Zionsville Community Schools,0542,Stonegate Elementary,A
-0630,Zionsville Community Schools,0544,Boone Meadow,A
-0665,Lebanon Community School Corp,0534,Perry Worth Elementary School,B
-0665,Lebanon Community School Corp,0553,Lebanon Senior High School,B
-0665,Lebanon Community School Corp,0557,Lebanon Middle School,B
-0665,Lebanon Community School Corp,0561,Central Elementary School,B
-0665,Lebanon Community School Corp,0565,Harney Elementary School,B
-0665,Lebanon Community School Corp,0569,Hattie B Stokes Elementary School,C
-0670,Brown County School Corporation,0571,Brown County Intermediate School,A
-0670,Brown County School Corporation,0573,Brown County High School,B
-0670,Brown County School Corporation,0577,Van Buren Elementary School,C
-0670,Brown County School Corporation,0581,Helmsburg Elementary School,B
-0670,Brown County School Corporation,0585,Sprunica Elementary School,B
-0670,Brown County School Corporation,0587,Brown County Junior High,B
-0750,Carroll Consolidated School Corp,0621,Carroll Senior High School,A
-0750,Carroll Consolidated School Corp,0623,Carroll Junior High School,B
-0750,Carroll Consolidated School Corp,0629,Carroll Elementary School,B
-0755,Delphi Community School Corp,0609,Delphi Community Middle School,C
-0755,Delphi Community School Corp,0637,Delphi Community High School,A
-0755,Delphi Community School Corp,0641,Delphi Community Elementary School,B
-0775,Pioneer Regional School Corp,0645,Pioneer Jr-Sr High School,B
-0775,Pioneer Regional School Corp,0649,Pioneer Elementary School,C
-0815,Southeastern School Corp,0689,Lewis Cass High School,A
-0815,Southeastern School Corp,0691,Lewis Cass Junior High School ,A
-0815,Southeastern School Corp,0695,Lewis Cass Elementary School,C
-0875,Logansport Community Sch Corp,0701,Logansport Community High School,A
-0875,Logansport Community Sch Corp,0702,Logansport Junior High School ,C
-0875,Logansport Community Sch Corp,0705,Franklin Elementary School,D
-0875,Logansport Community Sch Corp,0709,Fairview Elementary School,C
-0875,Logansport Community Sch Corp,0711,Landis Elementary School,C
-0875,Logansport Community Sch Corp,0713,Columbia Elementary School,C
-0875,Logansport Community Sch Corp,0715,Columbia 6th Grade Academy ,D
-0940,West Clark Community Schools,0765,Henryville Jr & Sr High School,B
-0940,West Clark Community Schools,0767,Henryville Elementary School,B
-0940,West Clark Community Schools,0777,Silver Creek High School,A
-0940,West Clark Community Schools,0781,Silver Creek Middle School,A
-0940,West Clark Community Schools,0789,Silver Creek Elementary School,B
-0940,West Clark Community Schools,0813,William W Borden High School,A
-0940,West Clark Community Schools,0815,William W Borden Elementary School,A
-0940,West Clark Community Schools,0818,Silver Creek Primary School,B
-1000,Clarksville Community School Corp,0833,Clarksville Senior High School,B
-1000,Clarksville Community School Corp,0845,Clarksville Elementary School,A
-1000,Clarksville Community School Corp,0851,Clarksville Middle School,A
-1010,Greater Clark County Schools,0755,W E Wilson Elementary,C
-1010,Greater Clark County Schools,0761,Thomas Jefferson Elementary School,B
-1010,Greater Clark County Schools,0801,Northaven Elementary School,B
-1010,Greater Clark County Schools,0805,Utica Elementary School,A
-1010,Greater Clark County Schools,0807,New Washington Elementary School,B
-1010,Greater Clark County Schools,0809,New Washington Middle/High School,A
-1010,Greater Clark County Schools,0821,Charlestown Senior High School,A
-1010,Greater Clark County Schools,0825,Jonathan Jennings Elementary Sch,B
-1010,Greater Clark County Schools,0829,Pleasant Ridge Elementary School,B
-1010,Greater Clark County Schools,0849,Jeffersonville High School,B
-1010,Greater Clark County Schools,0853,Parkview Middle School,B
-1010,Greater Clark County Schools,0863,Charlestown Middle School,B
-1010,Greater Clark County Schools,0865,Bridgepoint Elementary School,C
-1010,Greater Clark County Schools,0869,Maple Elementary School,C
-1010,Greater Clark County Schools,0871,Riverside Elementary School,B
-1010,Greater Clark County Schools,0877,Spring Hill Elementary School,C
-1010,Greater Clark County Schools,0879,Parkwood Elementary School,C
-1010,Greater Clark County Schools,0883,River Valley Middle School,C
-1125,Clay Community Schools,0895,Clay City Elementary School,B
-1125,Clay Community Schools,0897,Clay City Jr-Sr High School,B
-1125,Clay Community Schools,0901,Jackson Township Elementary School,A
-1125,Clay Community Schools,0907,Staunton Elementary School,A
-1125,Clay Community Schools,0923,Van Buren Elementary School,A
-1125,Clay Community Schools,0925,North Clay Middle School,C
-1125,Clay Community Schools,0933,Northview High School,B
-1125,Clay Community Schools,0941,East Side Elementary School,B
-1125,Clay Community Schools,0942,Forest Park Elementary School,D
-1125,Clay Community Schools,0949,Meridian Street Elementary School,A
-1150,Clinton Central School Corporation,0957,Clinton Central Junior-Senior HS,Appeal Pending
-1150,Clinton Central School Corporation,0961,Clinton Central Elementary School,A
-1160,Clinton Prairie School Corporation,0977,Clinton Prairie Jr-Sr High School,C
-1160,Clinton Prairie School Corporation,0981,Clinton Prairie Elementary School,B
-1170,Community Schools of Frankfort,0997,Frankfort High School,Appeal Pending
-1170,Community Schools of Frankfort,0999,Frankfort Middle School,D
-1170,Community Schools of Frankfort,1014,Blue Ridge Primary Elementary Sch,D
-1170,Community Schools of Frankfort,1015,Green Meadows Intermediate Elem,D
-1170,Community Schools of Frankfort,1020,Suncrest Elementary School,B
-1180,Rossville Con School District,1021,Rossville Middle/Senior High Sch,B
-1180,Rossville Con School District,1033,Rossville Elementary School,C
-1300,Crawford County Community Sch Corp,1037,South Crawford Elementary School,B
-1300,Crawford County Community Sch Corp,1045,West Crawford Elementary School,B
-1300,Crawford County Community Sch Corp,1059,Crawford County High School,A
-1300,Crawford County Community Sch Corp,1061,Crawford County Middle School,B
-1300,Crawford County Community Sch Corp,1065,East Crawford Elementary School,C
-1315,Barr-Reeve Community Schools Inc,1069,Barr Reeve Middle/High School,A
-1315,Barr-Reeve Community Schools Inc,1073,Barr Reeve Primary Grade School,A
-1315,Barr-Reeve Community Schools Inc,1075,Barr Reeve Elementary School,A
-1375,North Daviess Com Schools,1090,North Daviess Elementary School,B
-1375,North Daviess Com Schools,1121,North Daviess Jr-Sr High School,B
-1405,Washington Community Schools,1103,Lena Dunn Elementary School,F
-1405,Washington Community Schools,1105,Veale Elementary School,A
-1405,Washington Community Schools,1123,Washington Junior High School,C
-1405,Washington Community Schools,1125,Washington High School,B
-1405,Washington Community Schools,1129,North Elementary School,B
-1405,Washington Community Schools,1133,Helen Griffith Elementary School,C
-1560,Sunman-Dearborn Com Sch Corp,1189,North Dearborn Elementary School,A
-1560,Sunman-Dearborn Com Sch Corp,1190,Sunman-Dearborn Middle School,B
-1560,Sunman-Dearborn Com Sch Corp,1193,Bright Elementary School,B
-1560,Sunman-Dearborn Com Sch Corp,7211,Sunman Elementary School,C
-1560,Sunman-Dearborn Com Sch Corp,7213,East Central High School,A
-1600,South Dearborn Community Sch Corp,1141,Dillsboro Elementary School,B
-1600,South Dearborn Community Sch Corp,1165,Manchester Elementary School,B
-1600,South Dearborn Community Sch Corp,1169,Moores Hill Elementary School,B
-1600,South Dearborn Community Sch Corp,1172,South Dearborn Middle School,C
-1600,South Dearborn Community Sch Corp,1179,South Dearborn High School,B
-1600,South Dearborn Community Sch Corp,1197,Aurora Elementary School,C
-1620,Lawrenceburg Community School Corp,1177,Lawrenceburg High School,A
-1620,Lawrenceburg Community School Corp,1209,Greendale Middle School,B
-1620,Lawrenceburg Community School Corp,1210,Lawrenceburg Primary School,C
-1620,Lawrenceburg Community School Corp,1217,Central Elementary School,C
-1655,Decatur County Community Schools,1263,South Decatur Jr-Sr High School,B
-1655,Decatur County Community Schools,1265,South Decatur Elementary School,B
-1655,Decatur County Community Schools,1266,North Decatur Elementary School,B
-1655,Decatur County Community Schools,1267,North Decatur Jr-Sr High School,A
-1730,Greensburg Community Schools,1268,Greensburg Community High School,B
-1730,Greensburg Community Schools,1269,Greensburg Community Jr High,C
-1730,Greensburg Community Schools,1270,Greensburg Elementary,A
-1805,DeKalb Co Eastern Com Sch Dist,1317,Eastside Junior-Senior High School,B
-1805,DeKalb Co Eastern Com Sch Dist,1321,Butler Elementary School,C
-1805,DeKalb Co Eastern Com Sch Dist,1335,Riverdale Elementary School,A
-1820,Garrett-Keyser-Butler Com Sch Corp,1325,Garrett High School,B
-1820,Garrett-Keyser-Butler Com Sch Corp,1329,J E Ober Elementary School,C
-1820,Garrett-Keyser-Butler Com Sch Corp,1331,Garrett Middle School,B
-1835,DeKalb Co Ctl United Sch Dist,1341,Waterloo Elementary School,C
-1835,DeKalb Co Ctl United Sch Dist,1345,DeKalb High School,B
-1835,DeKalb Co Ctl United Sch Dist,1346,DeKalb Middle School,B
-1835,DeKalb Co Ctl United Sch Dist,1351,James R Watson Elementary School,A
-1835,DeKalb Co Ctl United Sch Dist,1357,McKenney-Harrison Elementary Sch,C
-1835,DeKalb Co Ctl United Sch Dist,1359,Country Meadow Elementary School,C
-1875,Delaware Community School Corp,1365,Royerton Elementary School,A
-1875,Delaware Community School Corp,1367,Delta Middle School,B
-1875,Delaware Community School Corp,1369,Delta High School,A
-1875,Delaware Community School Corp,1409,Eaton Elementary School,B
-1875,Delaware Community School Corp,1520,Albany Elementary School,A
-1885,Wes-Del Community Schools,1372,Wes-Del Middle/Senior High School,C
-1885,Wes-Del Community Schools,1413,Wes-Del Elementary School,D
-1895,Liberty-Perry Community Sch Corp,1375,Wapahani High School,B
-1895,Liberty-Perry Community Sch Corp,1377,Selma Middle School,A
-1895,Liberty-Perry Community Sch Corp,1381,Selma Elementary School,C
-1900,Cowan Community School Corp,1385,Cowan Elementary School,B
-1900,Cowan Community School Corp,1386,Cowan High School,B
-1910,Yorktown Community Schools,1387,Yorktown Middle School,C
-1910,Yorktown Community Schools,1389,Yorktown High School,A
-1910,Yorktown Community Schools,1393,Yorktown Elementary School,B
-1910,Yorktown Community Schools,1395,Pleasant View Elementary School,B
-1940,Daleville Community Schools,1401,Daleville Jr-Sr High School,B
-1940,Daleville Community Schools,1405,Daleville Elementary School,C
-1970,Muncie Community Schools,1421,Muncie Central High School,No Grade
-1970,Muncie Community Schools,1431,Northside Middle School,No Grade
-1970,Muncie Community Schools,1437,Southside Middle School,No Grade
-1970,Muncie Community Schools,1470,Grissom Elementary School,No Grade
-1970,Muncie Community Schools,1482,South View Elementary School,No Grade
-1970,Muncie Community Schools,1485,Longfellow Elementary School,No Grade
-1970,Muncie Community Schools,1496,North View Elementary School,No Grade
-1970,Muncie Community Schools,1513,East Washington Academy,No Grade
-1970,Muncie Community Schools,1517,West View Elementary School,No Grade
-2040,Northeast Dubois Co Sch Corp,1543,Celestine Elementary School,B
-2040,Northeast Dubois Co Sch Corp,1545,Northeast Dubois High School,B
-2040,Northeast Dubois Co Sch Corp,1549,Dubois Middle School,A
-2040,Northeast Dubois Co Sch Corp,1577,Dubois Elementary School,B
-2100,Southeast Dubois Co Sch Corp,1563,Pine Ridge Elementary School,A
-2100,Southeast Dubois Co Sch Corp,1581,Ferdinand Elementary School,A
-2100,Southeast Dubois Co Sch Corp,1583,Forest Park Jr-Sr High School,A
-2100,Southeast Dubois Co Sch Corp,1586,Cedar Crest Intermediate School,B
-2110,Southwest Dubois Co Sch Corp,1529,Holland Elementary School,A
-2110,Southwest Dubois Co Sch Corp,1587,Southridge Middle School,A
-2110,Southwest Dubois Co Sch Corp,1588,Southridge High School,B
-2110,Southwest Dubois Co Sch Corp,1590,Huntingburg Elementary School,B
-2120,Greater Jasper Consolidated Schs,1569,Ireland Elementary School,B
-2120,Greater Jasper Consolidated Schs,1575,Jasper Middle School,B
-2120,Greater Jasper Consolidated Schs,1593,Jasper High School,A
-2120,Greater Jasper Consolidated Schs,1597,Fifth Street Elementary School,B
-2120,Greater Jasper Consolidated Schs,1601,Tenth Street School,B
-2155,Fairfield Community Schools,1613,Fairfield Jr-Sr High School,B
-2155,Fairfield Community Schools,1621,Millersburg Elementary- Middle Sch,B
-2155,Fairfield Community Schools,1649,New Paris Elementary School,B
-2155,Fairfield Community Schools,1652,Benton Elementary School,B
-2260,Baugo Community Schools,1701,Jimtown High School,Appeal Pending
-2260,Baugo Community Schools,1703,Jimtown Junior High School,B
-2260,Baugo Community Schools,1705,Jimtown Elementary School,B
-2260,Baugo Community Schools,1707,Jimtown Intermediate School,B
-2270,Concord Community Schools,1713,Concord Junior High School,C
-2270,Concord Community Schools,1715,Concord Community High School,B
-2270,Concord Community Schools,1718,Concord Intermediate School,B
-2270,Concord Community Schools,1721,Concord East Side Elementary Sch,B
-2270,Concord Community Schools,1723,Concord Ox-Bow Elementary School,B
-2270,Concord Community Schools,1725,Concord South Side Elementary Sch,C
-2270,Concord Community Schools,1729,Concord West Side Elem School,B
-2275,Middlebury Community Schools,1656,Jefferson Elementary School,B
-2275,Middlebury Community Schools,1657,Northridge Middle School,A
-2275,Middlebury Community Schools,1697,York Elementary School,C
-2275,Middlebury Community Schools,1731,Heritage Intermediate School,C
-2275,Middlebury Community Schools,1732,Middlebury Elementary School,B
-2275,Middlebury Community Schools,1733,Northridge High School,A
-2275,Middlebury Community Schools,1734,Orchard View School,B
-2285,Wa-Nee Community Schools,1669,North Wood Middle School,B
-2285,Wa-Nee Community Schools,1735,Wakarusa Elementary School,A
-2285,Wa-Nee Community Schools,1737,North Wood High School,A
-2285,Wa-Nee Community Schools,1743,Nappanee Elementary School,A
-2285,Wa-Nee Community Schools,1747,Woodview Elementary School,B
-2305,Elkhart Community Schools,1617,Cleveland Elementary School,B
-2305,Elkhart Community Schools,1673,Osolo Elementary School,B
-2305,Elkhart Community Schools,1679,Eastwood Elementary School,C
-2305,Elkhart Community Schools,1681,Mary Feeser Elementary School,C
-2305,Elkhart Community Schools,1693,Bristol Elementary School,C
-2305,Elkhart Community Schools,1749,Elkhart Central High School,B
-2305,Elkhart Community Schools,1750,Elkhart Memorial High School,B
-2305,Elkhart Community Schools,1753,North Side Middle School,D
-2305,Elkhart Community Schools,1761,West Side Middle School,C
-2305,Elkhart Community Schools,1763,Pierre Moran Middle School,D
-2305,Elkhart Community Schools,1765,Beardsley Elementary School,F
-2305,Elkhart Community Schools,1769,Mary Beck Elementary School,D
-2305,Elkhart Community Schools,1773,Mary Daly Elementary School,D
-2305,Elkhart Community Schools,1777,Hawthorne Elementary School,F
-2305,Elkhart Community Schools,1785,Pinewood Elementary School,C
-2305,Elkhart Community Schools,1789,Monger Elementary School,B
-2305,Elkhart Community Schools,1797,Riverview Elementary School,B
-2305,Elkhart Community Schools,1801,Roosevelt STEAM Academy ,F
-2305,Elkhart Community Schools,1817,Woodland Elementary School,B
-2315,Goshen Community Schools,1629,Goshen Middle School,C
-2315,Goshen Community Schools,1633,Model Elementary School,C
-2315,Goshen Community Schools,1641,Waterford Elementary School,C
-2315,Goshen Community Schools,1821,Goshen High School,B
-2315,Goshen Community Schools,1829,Chamberlain Elementary School,C
-2315,Goshen Community Schools,1833,Chandler Elementary School,C
-2315,Goshen Community Schools,1843,Parkside Elementary School,A
-2315,Goshen Community Schools,1847,Prairie View Elementary School,B
-2315,Goshen Community Schools,1849,West Goshen Elementary School,A
-2395,Fayette County School Corporation,1869,Everton Elementary School,A
-2395,Fayette County School Corporation,1889,Connersville Sr High School,B
-2395,Fayette County School Corporation,1895,Connersville Middle School,B
-2395,Fayette County School Corporation,1897,Eastview Elementary School,A
-2395,Fayette County School Corporation,1909,Frazee Elementary School,B
-2395,Fayette County School Corporation,1913,Grandview Elementary School,B
-2395,Fayette County School Corporation,1917,Maplewood Elementary School,D
-2395,Fayette County School Corporation,1921,Fayette Central Elementary,A
-2400,New Albany-Floyd Co Con Sch,1925,New Albany Senior High School,B
-2400,New Albany-Floyd Co Con Sch,1929,Georgetown Elementary School,A
-2400,New Albany-Floyd Co Con Sch,1930,Floyd Central High School,A
-2400,New Albany-Floyd Co Con Sch,1931,Highland Hills Middle School,A
-2400,New Albany-Floyd Co Con Sch,1933,Hazelwood Middle School,C
-2400,New Albany-Floyd Co Con Sch,1937,Nathaniel Scribner Middle School,B
-2400,New Albany-Floyd Co Con Sch,1943,Slate Run Elementary School,B
-2400,New Albany-Floyd Co Con Sch,1949,Fairmont Elementary School,B
-2400,New Albany-Floyd Co Con Sch,1953,Greenville Elementary School,A
-2400,New Albany-Floyd Co Con Sch,1957,Grant Line Elementary School,B
-2400,New Albany-Floyd Co Con Sch,1961,Green Valley Elementary School,B
-2400,New Albany-Floyd Co Con Sch,1966,Floyds Knobs Elementary School,A
-2400,New Albany-Floyd Co Con Sch,1974,Mount Tabor Elementary School,B
-2400,New Albany-Floyd Co Con Sch,1981,S Ellen Jones Elementary School,B
-2435,Attica Consolidated School Corp,2053,Attica High School,B
-2435,Attica Consolidated School Corp,2057,Attica Elementary School,B
-2440,Covington Community School Corp,2005,Covington Community High School,A
-2440,Covington Community School Corp,2009,Covington Elementary School,A
-2440,Covington Community School Corp,2013,Covington Middle School,B
-2455,Southeast Fountain School Corp,2021,Southeast Fountain Elementary,A
-2455,Southeast Fountain School Corp,2022,Fountain Central High School,C
-2475,Franklin County Community Sch Corp,2082,Laurel School,B
-2475,Franklin County Community Sch Corp,2083,Franklin County High,B
-2475,Franklin County Community Sch Corp,2123,Franklin County Middle School ,C
-2475,Franklin County Community Sch Corp,2125,Brookville Elementary School,B
-2475,Franklin County Community Sch Corp,2127,Mount Carmel School,B
-2645,Rochester Community School Corp,2173,Rochester Community High School,B
-2645,Rochester Community School Corp,2177,Rochester Community Middle School,D
-2645,Rochester Community School Corp,2181,Columbia Elementary School,D
-2645,Rochester Community School Corp,2185,George M Riddle Elementary School,D
-2650,Caston School Corporation,2157,Caston Elementary School,B
-2650,Caston School Corporation,2159,Caston Jr-Sr High School,C
-2725,East Gibson School Corporation,2189,Barton Township Elementary,A
-2725,East Gibson School Corporation,2194,Waldo J Wood Memorial JHS,C
-2725,East Gibson School Corporation,2201,Francisco Elementary School,B
-2725,East Gibson School Corporation,2233,Waldo J Wood Memorial High,B
-2725,East Gibson School Corporation,2237,Oakland City Elementary School,D
-2735,North Gibson School Corp,2223,Princeton Comm Intermediate School,B
-2735,North Gibson School Corp,2225,Princeton Community Middle,D
-2735,North Gibson School Corp,2249,Princeton Community High School,B
-2735,North Gibson School Corp,2257,Princeton Comm Primary School,B
-2765,South Gibson School Corporation,2205,Haubstadt Community School,A
-2765,South Gibson School Corporation,2211,Gibson Southern High School,A
-2765,South Gibson School Corporation,2214,Fort Branch Community School,A
-2765,South Gibson School Corporation,2241,Owensville Community School,B
-2815,Eastbrook Community Sch Corp,2263,Eastbrook South Elementary,C
-2815,Eastbrook Community Sch Corp,2264,Eastbrook North Elementary,C
-2815,Eastbrook Community Sch Corp,2293,Eastbrook High School,A
-2815,Eastbrook Community Sch Corp,2299,Eastbrook Junior High School,B
-2825,Madison-Grant United School Corp,2321,Madison-Grant Jr./Sr. High School,B
-2825,Madison-Grant United School Corp,2329,Park Elementary School,C
-2825,Madison-Grant United School Corp,5037,Summitville School,C
-2855,Mississinewa Community School Corp,2333,Mississinewa High School,A
-2855,Mississinewa Community School Corp,2335,R J Baskett Middle School,C
-2855,Mississinewa Community School Corp,2344,Westview Elementary School,C
-2855,Mississinewa Community School Corp,2346,Northview Elementary School,C
-2865,Marion Community Schools,2350,Justice Thurgood Marshall Intrmd,D
-2865,Marion Community Schools,2351,Marion High School,B
-2865,Marion Community Schools,2357,John L McCulloch Junior High Sch,F
-2865,Marion Community Schools,2369,Allen Elementary School,B
-2865,Marion Community Schools,2393,John W Kendall Elem School,C
-2865,Marion Community Schools,2405,Riverview Elementary School,A
-2865,Marion Community Schools,2409,Frances Slocum Elem School,B
-2920,Bloomfield School District,2417,Bloomfield Elementary School,B
-2920,Bloomfield School District,2419,Bloomfield Jr-Sr High School,B
-2940,Eastern Greene Schools,2433,Eastern Greene Elementary School,B
-2940,Eastern Greene Schools,2435,Eastern Greene High School,A
-2940,Eastern Greene Schools,2436,Eastern Greene Middle School,A
-2950,Linton-Stockton School Corporation,2437,Linton-Stockton High School,B
-2950,Linton-Stockton School Corporation,2438,Linton-Stockton Middle School,C
-2950,Linton-Stockton School Corporation,2441,Linton-Stockton Elementary,A
-2960,M S D Shakamak Schools,2445,Shakamak Jr-Sr High School,A
-2960,M S D Shakamak Schools,2449,Shakamak Elementary School,B
-2980,White River Valley School District,2429,White River Valley High School,A
-2980,White River Valley School District,2457,White River Valley Middle School,C
-2980,White River Valley School District,2460,White River Valley Elementary Sch,B
-3005,Hamilton Southeastern Schools,2466,Brooks School Elementary,A
-3005,Hamilton Southeastern Schools,2468,New Britton Elementary School,A
-3005,Hamilton Southeastern Schools,2469,Fishers Elementary School,A
-3005,Hamilton Southeastern Schools,2470,Cumberland Road Elem School,A
-3005,Hamilton Southeastern Schools,2471,Hoosier Road Elementary School,A
-3005,Hamilton Southeastern Schools,2473,Fall Creek Elementary School,B
-3005,Hamilton Southeastern Schools,2474,Geist Elementary School,A
-3005,Hamilton Southeastern Schools,2475,Lantern Road Elementary School,A
-3005,Hamilton Southeastern Schools,2476,Fishers Junior High School,A
-3005,Hamilton Southeastern Schools,2479,Sand Creek Intermediate School,A
-3005,Hamilton Southeastern Schools,2481,Harrison Parkway Elementary School,A
-3005,Hamilton Southeastern Schools,2482,Sand Creek Elementary,B
-3005,Hamilton Southeastern Schools,2483,Thorpe Creek Elementary,A
-3005,Hamilton Southeastern Schools,2485,Fall Creek Intermediate School,A
-3005,Hamilton Southeastern Schools,2486,Fall Creek Junior High,A
-3005,Hamilton Southeastern Schools,2487,Fishers High School,A
-3005,Hamilton Southeastern Schools,2489,Hamilton SE Int and Jr High Sch,A
-3005,Hamilton Southeastern Schools,2490,Riverside Junior High,A
-3005,Hamilton Southeastern Schools,2497,Durbin Elementary School,A
-3005,Hamilton Southeastern Schools,2499,Hamilton Southeastern HS,A
-3005,Hamilton Southeastern Schools,2500,Riverside Intermediate School,A
-3025,Hamilton Heights School Corp,2477,Hamilton Heights High School,A
-3025,Hamilton Heights School Corp,2478,Hamilton Heights Elementary School,B
-3025,Hamilton Heights School Corp,2501,Hamilton Heights Middle School,B
-3025,Hamilton Heights School Corp,2502,Hamilton Heights Primary School,B
-3030,Westfield-Washington Schools,2491,Westfield Middle School,B
-3030,Westfield-Washington Schools,2492,Shamrock Springs Elementary School,A
-3030,Westfield-Washington Schools,2493,Westfield High School,A
-3030,Westfield-Washington Schools,2494,Carey Ridge Elementary School,A
-3030,Westfield-Washington Schools,2495,Washington Woods Elementary School,A
-3030,Westfield-Washington Schools,2496,Oak Trace Elementary School,B
-3030,Westfield-Washington Schools,2498,Monon Trail Elementary School,B
-3030,Westfield-Washington Schools,2503,Westfield Intermediate School,B
-3030,Westfield-Washington Schools,2504,Maple Glen Elementary,A
-3055,Sheridan Community Schools,2463,Sheridan High School,A
-3055,Sheridan Community Schools,2465,Sheridan Elementary School,C
-3055,Sheridan Community Schools,6780,Sheridan Middle School,B
-3060,Carmel Clay Schools,2505,Carmel High School,A
-3060,Carmel Clay Schools,2506,Clay Middle School,A
-3060,Carmel Clay Schools,2507,Woodbrook Elementary School,A
-3060,Carmel Clay Schools,2508,Cherry Tree Elementary School,A
-3060,Carmel Clay Schools,2509,Carmel Elementary School,B
-3060,Carmel Clay Schools,2510,College Wood Elementary School,A
-3060,Carmel Clay Schools,2511,Carmel Middle School,B
-3060,Carmel Clay Schools,2512,Smoky Row Elementary School,A
-3060,Carmel Clay Schools,2513,Orchard Park Elementary School,A
-3060,Carmel Clay Schools,2515,Prairie Trace Elementary School,A
-3060,Carmel Clay Schools,2516,Mohawk Trails Elementary School,A
-3060,Carmel Clay Schools,2518,Forest Dale Elementary School,A
-3060,Carmel Clay Schools,2520,Creekside Middle School,A
-3060,Carmel Clay Schools,2522,Towne Meadow Elementary School,A
-3060,Carmel Clay Schools,2526,West Clay Elementary School,A
-3070,Noblesville Schools,2517,Noblesville High School,A
-3070,Noblesville Schools,2521,Noblesville East Middle School,A
-3070,Noblesville Schools,2523,Hinkle Creek Elementary School,B
-3070,Noblesville Schools,2529,North Elementary School,A
-3070,Noblesville Schools,2533,Stony Creek Elementary School,A
-3070,Noblesville Schools,2537,Noble Crossing Elementary School,A
-3070,Noblesville Schools,2538,Hazel Dell Elementary School,A
-3070,Noblesville Schools,2539,Promise Road Elementary,A
-3070,Noblesville Schools,2542,Noblesville West Middle School,A
-3070,Noblesville Schools,2547,White River Elementary School,B
-3115,Southern Hancock Co Com Sch Corp,2543,New Palestine Intermediate School ,A
-3115,Southern Hancock Co Com Sch Corp,2563,Brandywine Elementary School,A
-3115,Southern Hancock Co Com Sch Corp,2564,New Palestine Elementary School,A
-3115,Southern Hancock Co Com Sch Corp,2565,New Palestine High School,A
-3115,Southern Hancock Co Com Sch Corp,2566,New Palestine Jr High School ,A
-3115,Southern Hancock Co Com Sch Corp,2567,Sugar Creek Elementary Sch,B
-3125,Greenfield-Central Com Schools,2577,Maxwell Intermediate School,A
-3125,Greenfield-Central Com Schools,2579,Greenfield Central Junior High Sch,C
-3125,Greenfield-Central Com Schools,2581,Eden Elementary School,A
-3125,Greenfield-Central Com Schools,2588,JB Stephens Elementary School,A
-3125,Greenfield-Central Com Schools,2593,Greenfield Intermediate School,B
-3125,Greenfield-Central Com Schools,2595,Greenfield-Central High School,A
-3125,Greenfield-Central Com Schools,2597,Harris Elementary School,B
-3125,Greenfield-Central Com Schools,2609,Weston Elementary School,A
-3135,Mt Vernon Community School Corp,2558,Fortville Elementary School,B
-3135,Mt Vernon Community School Corp,2559,Mt Vernon Middle School,B
-3135,Mt Vernon Community School Corp,2561,Mt Comfort Elementary School,B
-3135,Mt Vernon Community School Corp,2569,Mt Vernon High School,A
-3135,Mt Vernon Community School Corp,2570,McCordsville Elementary School,A
-3145,Eastern Hancock Co Com Sch Corp,2582,Eastern Hancock Middle School,A
-3145,Eastern Hancock Co Com Sch Corp,2585,Eastern Hancock High School,A
-3145,Eastern Hancock Co Com Sch Corp,2586,Eastern Hancock Elementary School,A
-3160,Lanesville Community School Corp,2611,Lanesville Elementary School,B
-3160,Lanesville Community School Corp,2613,Lanesville Jr-Sr HS,B
-3180,North Harrison Com School Corp,2621,Morgan Elementary School,A
-3180,North Harrison Com School Corp,2625,North Harrison Middle School,C
-3180,North Harrison Com School Corp,2629,North Harrison High School,B
-3180,North Harrison Com School Corp,2633,North Harrison Elementary School,C
-3190,South Harrison Com Schools,2640,Corydon Central High School,A
-3190,South Harrison Com Schools,2643,Corydon Central Jr High School,B
-3190,South Harrison Com Schools,2645,Corydon Elementary School,B
-3190,South Harrison Com Schools,2649,New Middletown Elementary School,B
-3190,South Harrison Com Schools,2653,Heth-Washington Elementary School,A
-3190,South Harrison Com Schools,2663,Corydon Intermediate School,B
-3190,South Harrison Com Schools,2667,South Central Elementary,A
-3190,South Harrison Com Schools,2670,South Central Jr & Sr High School,B
-3295,North West Hendricks Schools,2682,Tri-West Middle School,B
-3295,North West Hendricks Schools,2684,Pittsboro Primary School,A
-3295,North West Hendricks Schools,2685,North Salem Elementary School,A
-3295,North West Hendricks Schools,2725,Pittsboro Elementary School,A
-3295,North West Hendricks Schools,2731,Tri-West Senior High School,A
-3305,Brownsburg Community School Corp,2706,Brown Elementary School,A
-3305,Brownsburg Community School Corp,2709,Brownsburg High School,A
-3305,Brownsburg Community School Corp,2711,Eagle Elementary School,A
-3305,Brownsburg Community School Corp,2713,Brownsburg West Middle School,A
-3305,Brownsburg Community School Corp,2714,Reagan Elementary School,A
-3305,Brownsburg Community School Corp,2718,Delaware Trail Elementary School,A
-3305,Brownsburg Community School Corp,2720,Brownsburg East Middle School,A
-3305,Brownsburg Community School Corp,2723,White Lick Elementary School,A
-3305,Brownsburg Community School Corp,2727,Cardinal Elementary School,A
-3305,Brownsburg Community School Corp,2744,Lincoln Elementary School,A
-3315,Avon Community School Corp,2726,River Birch Elementary School,B
-3315,Avon Community School Corp,2728,Avon Intermediate School East,B
-3315,Avon Community School Corp,2729,Avon Intermediate School West,C
-3315,Avon Community School Corp,2730,Avon Middle School North,C
-3315,Avon Community School Corp,2733,Maple Elementary School,A
-3315,Avon Community School Corp,2734,White Oak Elementary School,B
-3315,Avon Community School Corp,2735,Sycamore Elementary School,A
-3315,Avon Community School Corp,2736,Avon Middle School South,B
-3315,Avon Community School Corp,2737,Avon High School,A
-3315,Avon Community School Corp,2738,Cedar Elementary School,A
-3315,Avon Community School Corp,2739,Pine Tree Elementary School,A
-3315,Avon Community School Corp,2740,Hickory Elementary School,B
-3325,Danville Community School Corp,2721,North Elementary School,A
-3325,Danville Community School Corp,2741,Danville Community High School,A
-3325,Danville Community School Corp,2743,Danville Middle School,A
-3325,Danville Community School Corp,2745,South Elementary School,A
-3330,Plainfield Community School Corp,2748,Clarks Creek Elementary,A
-3330,Plainfield Community School Corp,2749,Plainfield High School,A
-3330,Plainfield Community School Corp,2750,Plainfield Community Middle School,A
-3330,Plainfield Community School Corp,2751,Central Elementary School,A
-3330,Plainfield Community School Corp,2761,Van Buren Elementary School,A
-3330,Plainfield Community School Corp,2763,Brentwood Elementary School,A
-3335,Mill Creek Community Sch Corp,2675,Mill Creek East Elementary,B
-3335,Mill Creek Community Sch Corp,2677,Mill Creek West Elementary,A
-3335,Mill Creek Community Sch Corp,2687,Cascade Middle School,A
-3335,Mill Creek Community Sch Corp,2692,Cascade Senior High School,A
-3405,Blue River Valley Schools,2801,Blue River Valley Jr-Sr High Sch,C
-3405,Blue River Valley Schools,2803,Blue River Valley Elementary Sch,C
-3415,South Henry School Corp,2773,Tri Junior-Senior High School,B
-3415,South Henry School Corp,2777,Tri-Elementary School,C
-3435,Shenandoah School Corporation,2815,Shenandoah Elementary School,A
-3435,Shenandoah School Corporation,2817,Shenandoah High School,B
-3435,Shenandoah School Corporation,2819,Shenandoah Middle School,B
-3445,New Castle Community School Corp,2825,New Castle High School,B
-3445,New Castle Community School Corp,2829,New Castle Middle School,D
-3445,New Castle Community School Corp,2832,Eastwood Elementary School,B
-3445,New Castle Community School Corp,2847,Parker Elementary School,D
-3445,New Castle Community School Corp,2849,James Whitcomb Riley Elem School,C
-3445,New Castle Community School Corp,2853,Sunnyside Elementary School,B
-3445,New Castle Community School Corp,2861,Westwood Elementary School,C
-3445,New Castle Community School Corp,2865,Wilbur Wright Elementary School,C
-3455,C A Beard Memorial School Corp,2869,Knightstown High School,A
-3455,C A Beard Memorial School Corp,2870,Knightstown Intermediate School,C
-3455,C A Beard Memorial School Corp,2887,Knightstown Elementary School,B
-3460,Taylor Community School Corp,2894,Taylor High School,A
-3460,Taylor Community School Corp,2895,Taylor Elementary School,D
-3460,Taylor Community School Corp,2896,Taylor Middle School,C
-3470,Northwestern School Corp,2897,Northwestern Senior High School,A
-3470,Northwestern School Corp,2904,Northwestern Elementary School,C
-3470,Northwestern School Corp,2905,Howard Elementary School,B
-3470,Northwestern School Corp,2907,Northwestern Middle School,B
-3480,Eastern Howard School Corporation,2909,Eastern Elementary School,B
-3480,Eastern Howard School Corporation,2914,Eastern Middle School,A
-3480,Eastern Howard School Corporation,2919,Eastern High School,A
-3490,Western School Corp,2921,Western High School,A
-3490,Western School Corp,2922,Western Middle School,A
-3490,Western School Corp,2923,Western Intermediate School,B
-3490,Western School Corp,2935,Western Primary School,B
-3500,Kokomo School Corporation,2943,Sycamore Elementary School,C
-3500,Kokomo School Corporation,2945,Bon Air Elementary School,B
-3500,Kokomo School Corporation,2947,Boulevard Elementary School,C
-3500,Kokomo School Corporation,2951,Bon Air Middle School,F
-3500,Kokomo School Corporation,2955,Central Middle School,D
-3500,Kokomo School Corporation,2961,Elwood Haynes Elementary School,D
-3500,Kokomo School Corporation,2963,Maple Crest Middle School,F
-3500,Kokomo School Corporation,2969,Lafayette Park Elementary School,C
-3500,Kokomo School Corporation,2993,Pettit Park School,D
-3500,Kokomo School Corporation,3005,Wallace Elementary School,A
-3500,Kokomo School Corporation,3013,Kokomo High School,B
-3625,Huntington Co Com Sch Corp,3021,Andrews Elementary School,B
-3625,Huntington Co Com Sch Corp,3025,Riverview School,B
-3625,Huntington Co Com Sch Corp,3029,Roanoke Elementary School,B
-3625,Huntington Co Com Sch Corp,3035,Salamonie School,C
-3625,Huntington Co Com Sch Corp,3061,Crestview Middle School,B
-3625,Huntington Co Com Sch Corp,3065,Huntington North High School,B
-3625,Huntington Co Com Sch Corp,3077,Flint Springs Elementary,C
-3625,Huntington Co Com Sch Corp,3081,Lincoln Elementary School,C
-3625,Huntington Co Com Sch Corp,3086,Horace Mann Elementary,A
-3640,Medora Community School Corp,3093,Medora Jr & Sr High School,D
-3640,Medora Community School Corp,3095,Medora Elementary School,F
-3675,Seymour Community Schools,3105,Cortland Elementary School,A
-3675,Seymour Community Schools,3133,Seymour Senior High School,B
-3675,Seymour Community Schools,3135,Margaret R Brown Elementary School,C
-3675,Seymour Community Schools,3138,Seymour Middle School,C
-3675,Seymour Community Schools,3141,Emerson Elementary School,B
-3675,Seymour Community Schools,3153,Seymour-Jackson Elementary School,B
-3675,Seymour Community Schools,3157,Seymour-Redding Elementary School,B
-3695,Brownstown Cnt Com Sch Corp,3107,Brownstown Central Middle School,C
-3695,Brownstown Cnt Com Sch Corp,3126,Brownstown Central High School,A
-3695,Brownstown Cnt Com Sch Corp,3129,Brownstown Elementary School,C
-3710,Crothersville Community Schools,3121,Crothersville Jr-Sr High School,C
-3710,Crothersville Community Schools,3122,Crothersville Elementary School,F
-3785,Kankakee Valley School Corp,3181,Kankakee Valley High School,A
-3785,Kankakee Valley School Corp,3183,Kankakee Valley Middle School,B
-3785,Kankakee Valley School Corp,3184,DeMotte Elementary School,B
-3785,Kankakee Valley School Corp,3197,Wheatfield Elementary School,B
-3785,Kankakee Valley School Corp,3198,Kankakee Valley Intermediate Sch,B
-3815,Rensselaer Central School Corp,3201,Rensselaer Central High School,B
-3815,Rensselaer Central School Corp,3205,Van Rensselaer Elementary School,B
-3815,Rensselaer Central School Corp,3213,Rensselaer Central Primary School,B
-3815,Rensselaer Central School Corp,3221,Rensselaer Middle School,C
-3945,Jay School Corporation,3239,Jay County High School,B
-3945,Jay School Corporation,3241,Bloomfield Elementary School,B
-3945,Jay School Corporation,3247,Redkey Elementary School,B
-3945,Jay School Corporation,3265,East Jay County Middle School,B
-3945,Jay School Corporation,3273,General Shanks Elem School,C
-3945,Jay School Corporation,3285,West Jay County Middle School,C
-3945,Jay School Corporation,3287,East Elementary School,B
-3945,Jay School Corporation,3289,Westlawn Elementary School,B
-3995,Madison Consolidated Schools,3301,Deputy Elementary School,A
-3995,Madison Consolidated Schools,3309,Madison Consolidated High School,B
-3995,Madison Consolidated Schools,3313,Madison Consolidated Jr High Sch,C
-3995,Madison Consolidated Schools,3321,Rykers' Ridge Elementary School,C
-3995,Madison Consolidated Schools,3329,Lydia Middleton Elementary School,B
-3995,Madison Consolidated Schools,3333,Emery O Muncie Elementary School,C
-4000,Southwestern-Jefferson Co Con,3337,Southwestern High School,B
-4000,Southwestern-Jefferson Co Con,3341,Southwestern Elementary School,C
-4000,Southwestern-Jefferson Co Con,3343,Southwestern Middle School,C
-4015,Jennings County School Corporation,3345,Jennings County High School,B
-4015,Jennings County School Corporation,3349,Sand Creek Elementary School,B
-4015,Jennings County School Corporation,3357,Scipio Elementary School,B
-4015,Jennings County School Corporation,3361,Graham Creek Elementary School,A
-4015,Jennings County School Corporation,3385,Hayden Elementary School,B
-4015,Jennings County School Corporation,3389,Brush Creek Elementary School,A
-4015,Jennings County School Corporation,3393,Jennings County Middle School,C
-4015,Jennings County School Corporation,3397,North Vernon Elementary School,B
-4145,Clark-Pleasant Community Sch Corp,3401,Clark Elementary School,B
-4145,Clark-Pleasant Community Sch Corp,3421,Whiteland Community High School,B
-4145,Clark-Pleasant Community Sch Corp,3422,Grassy Creek Elementary School,B
-4145,Clark-Pleasant Community Sch Corp,3425,Whiteland Elementary School,A
-4145,Clark-Pleasant Community Sch Corp,3427,Clark Pleasant Middle School,A
-4145,Clark-Pleasant Community Sch Corp,3429,Break-O-Day Elementary School,C
-4145,Clark-Pleasant Community Sch Corp,3430,Pleasant Crossing Elementary,C
-4205,Center Grove Community School Corp,3434,Sugar Grove Elementary School,A
-4205,Center Grove Community School Corp,3435,Center Grove Elementary School,A
-4205,Center Grove Community School Corp,3437,Center Grove High School,A
-4205,Center Grove Community School Corp,3439,Maple Grove Elementary School,A
-4205,Center Grove Community School Corp,3440,North Grove Elementary School,B
-4205,Center Grove Community School Corp,3441,Center Grove Middle School Central,A
-4205,Center Grove Community School Corp,3443,Center Grove Middle School North,B
-4205,Center Grove Community School Corp,3444,Pleasant Grove Elementary School,A
-4215,Edinburgh Community School Corp,3447,Edinburgh Community High School,A
-4215,Edinburgh Community School Corp,3449,Edinburgh Comm Middle School,C
-4215,Edinburgh Community School Corp,3452,East Side Elementary School,B
-4225,Franklin Community School Corp,3413,Needham Elementary School,C
-4225,Franklin Community School Corp,3433,Union Elementary School,A
-4225,Franklin Community School Corp,3445,Franklin Community High School,B
-4225,Franklin Community School Corp,3457,Franklin Community Middle School,C
-4225,Franklin Community School Corp,3458,Custer Baker Intermediate School,C
-4225,Franklin Community School Corp,3461,Northwood Elementary School,B
-4225,Franklin Community School Corp,3465,Webb Elementary School,C
-4225,Franklin Community School Corp,3467,Creekside Elementary School,B
-4245,Greenwood Community Sch Corp,3473,Greenwood Community High Sch,A
-4245,Greenwood Community Sch Corp,3475,Greenwood Middle School,A
-4245,Greenwood Community Sch Corp,3477,Greenwood Northeast Elementary Sch,B
-4245,Greenwood Community Sch Corp,3479,Westwood Elementary School,A
-4245,Greenwood Community Sch Corp,3481,V O Isom Central Elem School,A
-4245,Greenwood Community Sch Corp,3483,Southwest Elementary School,A
-4255,Nineveh-Hensley-Jackson United,3409,Indian Creek Elementary School,A
-4255,Nineveh-Hensley-Jackson United,3411,Indian Creek Intermediate School,A
-4255,Nineveh-Hensley-Jackson United,3418,Indian Creek Middle School,A
-4255,Nineveh-Hensley-Jackson United,3419,Indian Creek Sr High School,B
-4315,North Knox School Corp,3521,North Knox Primary School,B
-4315,North Knox School Corp,3537,North Knox Jr-Sr High School,C
-4315,North Knox School Corp,3545,North Knox Intermediate,B
-4325,South Knox School Corp,3489,South Knox Elementary School,C
-4325,South Knox School Corp,3490,South Knox Middle-High School,A
-4335,Vincennes Community School Corp,3509,Benjamin Franklin Elementary Sch,B
-4335,Vincennes Community School Corp,3553,Lincoln High School,B
-4335,Vincennes Community School Corp,3557,George Rogers Clark School,D
-4335,Vincennes Community School Corp,3573,James Whitcomb Riley Elem Sch,C
-4335,Vincennes Community School Corp,3577,Tecumseh-Harrison Elementary Sch,D
-4335,Vincennes Community School Corp,3581,Francis Vigo Elementary School,D
-4345,Wawasee Community School Corp,3625,North Webster Elementary School,C
-4345,Wawasee Community School Corp,3630,Wawasee Middle School,C
-4345,Wawasee Community School Corp,3635,Milford School,D
-4345,Wawasee Community School Corp,3637,Syracuse Elementary School,C
-4345,Wawasee Community School Corp,3639,Wawasee High School,Appeal Pending
-4415,Warsaw Community Schools,3589,Claypool Elementary School,B
-4415,Warsaw Community Schools,3607,Lakeview Middle School,C
-4415,Warsaw Community Schools,3608,Eisenhower Elementary School,B
-4415,Warsaw Community Schools,3610,Harrison Elementary School,C
-4415,Warsaw Community Schools,3613,Leesburg Elementary School,C
-4415,Warsaw Community Schools,3647,Warsaw Community High School,B
-4415,Warsaw Community Schools,3653,Edgewood Middle School,B
-4415,Warsaw Community Schools,3661,Jefferson Elementary School,C
-4415,Warsaw Community Schools,3665,Lincoln Elementary School,A
-4415,Warsaw Community Schools,3673,Madison Elementary School,D
-4415,Warsaw Community Schools,3677,Washington Elementary School,B
-4445,Tippecanoe Valley School Corp,2139,Akron Elementary School,C
-4445,Tippecanoe Valley School Corp,3602,Tippecanoe Valley High School,A
-4445,Tippecanoe Valley School Corp,3603,Mentone Elementary School,B
-4445,Tippecanoe Valley School Corp,3619,Tippecanoe Valley Middle School,B
-4455,Whitko Community School Corp,3642,Pierceton Elementary School,D
-4455,Whitko Community School Corp,9173,South Whitley Elementary School,B
-4455,Whitko Community School Corp,9191,Whitko Jr/Sr High School,A
-4515,Prairie Heights Community Sch Corp,3686,Prairie Heights Elementary School,C
-4515,Prairie Heights Community Sch Corp,3688,Prairie Heights Middle School,B
-4515,Prairie Heights Community Sch Corp,3690,Prairie Heights Sr High School,A
-4525,Westview School Corporation,3697,Westview Jr-Sr High School,A
-4525,Westview School Corporation,3698,Topeka Elementary School,A
-4525,Westview School Corporation,3702,Westview Elementary School,B
-4525,Westview School Corporation,3704,Meadowview Elementary School,A
-4525,Westview School Corporation,3714,Shipshewana-Scott Elementary Sch,B
-4535,Lakeland School Corporation,3730,Lakeland High School,B
-4535,Lakeland School Corporation,3731,Parkside Elementary School,B
-4535,Lakeland School Corporation,3741,Wolcott Mills Elementary School,D
-4535,Lakeland School Corporation,3743,Lakeland Middle School,D
-4535,Lakeland School Corporation,3745,Lima-Brighton Elementary,C
-4580,Hanover Community School Corp,3781,Jane Ball Elementary School,A
-4580,Hanover Community School Corp,3782,Lincoln Elementary School,A
-4580,Hanover Community School Corp,3784,Hanover Central Middle School,A
-4580,Hanover Community School Corp,3785,Hanover Central High School,B
-4590,River Forest Community Sch Corp,3791,River Forest High School,B
-4590,River Forest Community Sch Corp,3797,Henry S Evans Elementary School,C
-4590,River Forest Community Sch Corp,3801,River Forest Middle School,D
-4590,River Forest Community Sch Corp,3805,John I Meister Elementary School,B
-4600,Merrillville Community School Corp,3809,Merrillville High School,B
-4600,Merrillville Community School Corp,3811,Pierce Middle School,C
-4600,Merrillville Community School Corp,3813,Merrillville Intermediate School,B
-4600,Merrillville Community School Corp,3821,Henry P Fieler Elementary School,C
-4600,Merrillville Community School Corp,3822,Homer Iddings Elementary School,B
-4600,Merrillville Community School Corp,3826,Edgar L Miller Elementary School,B
-4600,Merrillville Community School Corp,3827,John Wood Elementary School,A
-4600,Merrillville Community School Corp,3829,Jonas E Salk Elementary School,B
-4615,Lake Central School Corporation,3831,Michael Grimmer Middle School,B
-4615,Lake Central School Corporation,3833,Lake Central High School,A
-4615,Lake Central School Corporation,3837,Kolling Elementary School,A
-4615,Lake Central School Corporation,3838,Hal E Clark Middle School,B
-4615,Lake Central School Corporation,3839,George Bibich Elementary School,A
-4615,Lake Central School Corporation,3840,James H Watson Elementary School,A
-4615,Lake Central School Corporation,3841,Kahler Middle School,B
-4615,Lake Central School Corporation,3843,Protsman Elementary School,B
-4615,Lake Central School Corporation,4349,Homan Elementary School,A
-4615,Lake Central School Corporation,4351,Peifer Elementary School,A
-4645,Tri-Creek School Corporation,3753,Oak Hill Elementary School,A
-4645,Tri-Creek School Corporation,3845,Lake Prairie Elementary School,A
-4645,Tri-Creek School Corporation,3848,Three Creeks Elem School,B
-4645,Tri-Creek School Corporation,3851,Lowell Middle School,B
-4645,Tri-Creek School Corporation,3865,Lowell Senior High School,A
-4650,Lake Ridge New Tech Schools,3869,Calumet New Tech High School,B
-4650,Lake Ridge New Tech Schools,3885,Longfellow New Tech Elementary Sch,C
-4650,Lake Ridge New Tech Schools,3889,Hosford Park New Tech Elementary ,C
-4650,Lake Ridge New Tech Schools,3893,Lake Ridge New Tech Middle School,C
-4660,Crown Point Community School Corp,3761,Robert Taft Middle School,A
-4660,Crown Point Community School Corp,3769,Douglas MacArthur Elem School,A
-4660,Crown Point Community School Corp,3773,Dwight D Eisenhower Elem School,A
-4660,Crown Point Community School Corp,3854,Winfield Elementary School,A
-4660,Crown Point Community School Corp,3901,Crown Point High School,A
-4660,Crown Point Community School Corp,3903,Lake Street Elementary School,A
-4660,Crown Point Community School Corp,3905,Solon Robinson Elementary School,A
-4660,Crown Point Community School Corp,3907,Jerry Ross Elementary School,A
-4660,Crown Point Community School Corp,3913,Timothy Ball Elementary School,A
-4660,Crown Point Community School Corp,3915,Colonel John Wheeler Middle School,B
-4670,School City of East Chicago,3924,East Chicago Central High School,Appeal Pending
-4670,School City of East Chicago,3941,Benjamin Harrison Elementary Sch,F
-4670,School City of East Chicago,3945,Abraham Lincoln Elementary School,D
-4670,School City of East Chicago,3953,William McKinley Elementary School,F
-4670,School City of East Chicago,3961,George Washington Elementary Sch,D
-4670,School City of East Chicago,3963,Joseph Block Middle School,C
-4680,Lake Station Community Schools,3965,Thomas A Edison Jr-Sr HS,C
-4680,Lake Station Community Schools,3973,Alexander Hamilton Elementary Sch,B
-4680,Lake Station Community Schools,3975,Virgil I Bailey Elementary School,B
-4690,Gary Community School Corp,4053,Banneker Elementary at Marquette,F
-4690,Gary Community School Corp,4061,Beveridge Elementary School,F
-4690,Gary Community School Corp,4086,Frankie W McCullough Acad for Girl,F
-4690,Gary Community School Corp,4105,Bailly Preparatory Academy,D
-4690,Gary Community School Corp,4155,Glen Park Acad for Excel in Lrn,F
-4690,Gary Community School Corp,4163,West Side Leadership Academy,Appeal Pending
-4690,Gary Community School Corp,4169,Daniel Hale Williams Elem Sch,F
-4690,Gary Community School Corp,4178,Gary Middle School ,No Grade
-4700,Griffith Public Schools,4171,Beiriger Elementary School,B
-4700,Griffith Public Schools,4173,Griffith Senior High School,A
-4700,Griffith Public Schools,4177,Griffith Middle School,B
-4700,Griffith Public Schools,4185,Eldon Ready Elementary School,A
-4700,Griffith Public Schools,4189,Elsie Wadsworth Elementary School,A
-4710,School City of Hammond,4411,George Rogers Clark Md/HS,C
-4710,School City of Hammond,4413,Donald E Gavit Middle/High School,C
-4710,School City of Hammond,4415,Hammond High School,B
-4710,School City of Hammond,4417,Morton Senior High School,C
-4710,School City of Hammond,4422,Joseph Hess Elementary School,C
-4710,School City of Hammond,4425,Henry W Eggers Middle School,F
-4710,School City of Hammond,4433,Charles N Scott Middle School,D
-4710,School City of Hammond,4447,Columbia Elementary School,D
-4710,School City of Hammond,4449,Thomas A Edison Elementary School,C
-4710,School City of Hammond,4451,Benjamin Franklin Elementary Sch,D
-4710,School City of Hammond,4453,Warren G Harding Elementary School,C
-4710,School City of Hammond,4455,Washington Irving Elementary Sch,D
-4710,School City of Hammond,4457,Thomas Jefferson Elementary School,B
-4710,School City of Hammond,4459,Kenwood Elementary School,B
-4710,School City of Hammond,4461,Lafayette Elementary School,B
-4710,School City of Hammond,4463,Abraham Lincoln Elementary School,C
-4710,School City of Hammond,4465,Maywood Elementary School,C
-4710,School City of Hammond,4469,Morton Elementary School,C
-4710,School City of Hammond,4479,Lew Wallace Elementary School,D
-4710,School City of Hammond,4484,Frank O'Bannon Elementary School,D
-4720,School Town of Highland,4281,Highland High School,B
-4720,School Town of Highland,4283,Highland Middle School,C
-4720,School Town of Highland,4285,Judith Morton Johnston Elementary,A
-4720,School Town of Highland,4290,Mildred Merkley Elementary School,B
-4720,School Town of Highland,4301,Southridge Elementary School,C
-4720,School Town of Highland,4303,Allen J Warren Elementary School,C
-4730,School City of Hobart,4305,Hobart High School,A
-4730,School City of Hobart,4309,Hobart Middle School,B
-4730,School City of Hobart,4311,Early Learning Center-George Earle,B
-4730,School City of Hobart,4317,Liberty Elementary School,B
-4730,School City of Hobart,4325,Ridge View Elementary School,C
-4730,School City of Hobart,4327,Joan Martin Elementary School,B
-4740,School Town of Munster,4332,Munster High School,A
-4740,School Town of Munster,4333,Wilbur Wright Middle School,A
-4740,School Town of Munster,4337,James B Eads Elementary School,B
-4740,School Town of Munster,4341,Ernest R Elliott Elementary School,B
-4740,School Town of Munster,4343,Frank H Hammond Elementary School,A
-4760,School City of Whiting,4353,Whiting High School,B
-4760,School City of Whiting,4356,Whiting Middle School,C
-4760,School City of Whiting,4361,Nathan Hale Elementary School,C
-4805,New Prairie United School Corp,4679,Prairie View Elementary School,A
-4805,New Prairie United School Corp,4689,New Prairie High School,A
-4805,New Prairie United School Corp,4693,Rolling Prairie Elementary School,B
-4805,New Prairie United School Corp,7345,New Prairie Middle School,B
-4805,New Prairie United School Corp,7349,Olive Township Elementary School,A
-4860,M S D of New Durham Township,4699,Westville Elementary School,B
-4860,M S D of New Durham Township,4701,Westville High School,B
-4915,Tri-Township Cons School Corp,4692,LaCrosse School,A
-4915,Tri-Township Cons School Corp,4696,Wanatah School,C
-4925,Michigan City Area Schools,4373,Coolspring Elementary School,C
-4925,Michigan City Area Schools,4713,Springfield Elementary School,C
-4925,Michigan City Area Schools,4788,Martin T Krueger Middle School,D
-4925,Michigan City Area Schools,4789,Barker Middle School,D
-4925,Michigan City Area Schools,4795,Michigan City High School,B
-4925,Michigan City Area Schools,4805,Edgewood Elementary School,C
-4925,Michigan City Area Schools,4811,Lake Hills Elementary School,C
-4925,Michigan City Area Schools,4821,Joy Elementary School,C
-4925,Michigan City Area Schools,4825,Knapp Elementary School,A
-4925,Michigan City Area Schools,4833,Marsh Elementary School,B
-4925,Michigan City Area Schools,6829,Pine Elementary School,D
-4940,South Central Com School Corp,4734,South Central Elementary School,B
-4940,South Central Com School Corp,4737,South Central Jr-Sr High School,A
-4945,LaPorte Community School Corp,4707,Indian Trail Elementary School,B
-4945,LaPorte Community School Corp,4717,Kesling Middle School,C
-4945,LaPorte Community School Corp,4721,Kingsford Heights Elementary Sch,B
-4945,LaPorte Community School Corp,4727,Kingsbury Elementary School,B
-4945,LaPorte Community School Corp,4741,LaPorte High School,B
-4945,LaPorte Community School Corp,4745,Paul F Boston Middle School,C
-4945,LaPorte Community School Corp,4749,Hailmann Elementary School,B
-4945,LaPorte Community School Corp,4753,F Willard Crichfield Elementary,A
-4945,LaPorte Community School Corp,4757,Lincoln Elementary School,C
-4945,LaPorte Community School Corp,4767,Riley Elementary School,A
-4945,LaPorte Community School Corp,4773,Handley Elementary School,D
-5075,North Lawrence Com Schools,4857,Fayetteville Elementary School,B
-5075,North Lawrence Com Schools,4865,Needmore Elementary School,C
-5075,North Lawrence Com Schools,4869,Springville Elementary School,D
-5075,North Lawrence Com Schools,4873,Heltonville Elementary School,B
-5075,North Lawrence Com Schools,4878,Oolitic Middle School,D
-5075,North Lawrence Com Schools,4885,Dollens Elementary School,C
-5075,North Lawrence Com Schools,4889,Shawswick Elementary School,B
-5075,North Lawrence Com Schools,4891,Shawswick Middle School,C
-5075,North Lawrence Com Schools,4905,Bedford Middle School,D
-5075,North Lawrence Com Schools,4909,Lincoln Elementary School,A
-5075,North Lawrence Com Schools,4911,Bedford-North Lawrence High School,B
-5075,North Lawrence Com Schools,4917,Parkview Primary School,C
-5075,North Lawrence Com Schools,4921,Stalker Elementary School,D
-5075,North Lawrence Com Schools,4932,Parkview Intermediate School,C
-5085,Mitchell Community Schools,4861,Burris Elementary School,C
-5085,Mitchell Community Schools,4863,Hatfield Elementary School,C
-5085,Mitchell Community Schools,4924,Mitchell Jr High School,C
-5085,Mitchell Community Schools,4925,Mitchell High School,B
-5245,Frankton-Lapel Community Schools,5005,Frankton Jr-Sr High School,B
-5245,Frankton-Lapel Community Schools,5009,Frankton Elementary School,C
-5245,Frankton-Lapel Community Schools,5011,Lapel Sr High School,A
-5245,Frankton-Lapel Community Schools,5012,Lapel Middle School,B
-5245,Frankton-Lapel Community Schools,5025,Lapel Elementary School,B
-5255,South Madison Com Sch Corp,4935,East Elementary School,B
-5255,South Madison Com Sch Corp,5053,Pendleton Heights High School,A
-5255,South Madison Com Sch Corp,5057,Pendleton Heights Middle School,A
-5255,South Madison Com Sch Corp,5061,Pendleton Elementary School,B
-5255,South Madison Com Sch Corp,5064,Maple Ridge Elementary School,B
-5265,Alexandria Community School Corp,5041,Alexandria-Monroe High School,B
-5265,Alexandria Community School Corp,5065,Alexandria-Monroe Intermediate,B
-5265,Alexandria Community School Corp,5069,Alexandria-Monroe Elementary,B
-5275,Anderson Community School Corp,4906,COMPASS Alternative School ,No Grade
-5275,Anderson Community School Corp,4945,Anderson High School,B
-5275,Anderson Community School Corp,4953,Edgewood Elementary School,F
-5275,Anderson Community School Corp,4977,Tenth Street Elementary School,C
-5275,Anderson Community School Corp,5033,Valley Grove Elementary School,C
-5275,Anderson Community School Corp,5076,Highland Middle School,D
-5275,Anderson Community School Corp,5102,Eastside Elementary School,D
-5275,Anderson Community School Corp,5142,Anderson Elementary School,D
-5275,Anderson Community School Corp,5146,Erskine Elementary School,F
-5280,Elwood Community School Corp,5149,Elwood Jr-Sr High School,C
-5280,Elwood Community School Corp,5151,Elwood Intermediate School,C
-5280,Elwood Community School Corp,5157,Elwood Elementary School,C
-5300,M S D Decatur Township,5177,Decatur Central High School,B
-5300,M S D Decatur Township,5178,Gold Academy,C
-5300,M S D Decatur Township,5179,Blue Academy,C
-5300,M S D Decatur Township,5181,Decatur Middle School,F
-5300,M S D Decatur Township,5185,Stephen Decatur Elementary School,F
-5300,M S D Decatur Township,5187,Valley Mills Elementary School,C
-5300,M S D Decatur Township,5188,Decatur Twp School for Excellence,D
-5300,M S D Decatur Township,5189,West Newton Elementary School,B
-5300,M S D Decatur Township,5192,Liberty Early Elementary School,C
-5310,Franklin Township Com Sch Corp,5193,Franklin Central High School,A
-5310,Franklin Township Com Sch Corp,5194,South Creek Elementary,A
-5310,Franklin Township Com Sch Corp,5195,Franklin Township Middle Schl East,B
-5310,Franklin Township Com Sch Corp,5197,Franklin Township Middle Sch West,B
-5310,Franklin Township Com Sch Corp,5198,Thompson Crossing Elementary Sch,A
-5310,Franklin Township Com Sch Corp,5200,Mary Adams Elementary School,A
-5310,Franklin Township Com Sch Corp,5201,Acton Elementary School,A
-5310,Franklin Township Com Sch Corp,5202,Arlington Elementary School,B
-5310,Franklin Township Com Sch Corp,5203,Lillie Idella Kitley Elementary,C
-5310,Franklin Township Com Sch Corp,5205,Bunker Hill Elementary School,A
-5330,M S D Lawrence Township,5275,Lawrence Central High School,B
-5330,M S D Lawrence Township,5276,Lawrence North High School,B
-5330,M S D Lawrence Township,5277,Belzer Middle School,C
-5330,M S D Lawrence Township,5281,Brook Park Elementary School,F
-5330,M S D Lawrence Township,5283,Mary Evelyn Castle Elementary Sch,B
-5330,M S D Lawrence Township,5284,Early Learning Center,C
-5330,M S D Lawrence Township,5285,Crestview Elementary School,C
-5330,M S D Lawrence Township,5287,Amy Beverland Elementary,A
-5330,M S D Lawrence Township,5289,Harrison Hill Elementary School,D
-5330,M S D Lawrence Township,5291,Fall Creek Valley Middle School,C
-5330,M S D Lawrence Township,5293,Indian Creek Elementary School,C
-5330,M S D Lawrence Township,5294,Forest Glen Elementary School,A
-5330,M S D Lawrence Township,5295,Winding Ridge Elementary School,C
-5330,M S D Lawrence Township,5296,Oaklandon Elementary School,D
-5330,M S D Lawrence Township,5298,Skiles Test Elementary School,C
-5330,M S D Lawrence Township,5299,Sunnyside Elementary School,C
-5340,Perry Township Schools,5307,Perry Meridian High School,B
-5340,Perry Township Schools,5309,Southport High School,B
-5340,Perry Township Schools,5310,Southport 6th Grade Academy,A
-5340,Perry Township Schools,5312,Perry Meridian 6th Grade Academy,B
-5340,Perry Township Schools,5315,Southport Middle School,B
-5340,Perry Township Schools,5319,Perry Meridian Middle School,B
-5340,Perry Township Schools,5321,William Henry Burkhart Elementary,A
-5340,Perry Township Schools,5322,Mary Bryan Elementary School,B
-5340,Perry Township Schools,5325,Clinton Young Elementary School,C
-5340,Perry Township Schools,5333,Glenns Valley Elementary School,A
-5340,Perry Township Schools,5337,Abraham Lincoln Elementary School,B
-5340,Perry Township Schools,5338,Douglas MacArthur Elementary Sch,A
-5340,Perry Township Schools,5345,Homecroft Elementary School,A
-5340,Perry Township Schools,5347,Southport Elementary School,A
-5340,Perry Township Schools,5351,Winchester Village Elementary,B
-5340,Perry Township Schools,5366,Jeremiah Gray Elementary School,B
-5340,Perry Township Schools,5372,Rosa Parks Elementary School,A
-5350,M S D Pike Township,5349,Fishback Creek Public Academy,B
-5350,M S D Pike Township,5352,Deer Run Elementary,B
-5350,M S D Pike Township,5353,Pike High School,A
-5350,M S D Pike Township,5354,College Park Elementary School,B
-5350,M S D Pike Township,5355,Lincoln Middle School,D
-5350,M S D Pike Township,5356,Guion Creek Middle School,D
-5350,M S D Pike Township,5357,Central Elementary School,D
-5350,M S D Pike Township,5358,Eagle Creek Elementary School,B
-5350,M S D Pike Township,5359,Eastbrook Elementary School,C
-5350,M S D Pike Township,5360,Guion Creek Elementary School,B
-5350,M S D Pike Township,5363,Snacks Crossing Elementary School,C
-5350,M S D Pike Township,5378,New Augusta Public Academy - South,C
-5350,M S D Pike Township,5380,New Augusta Public Academy - North,C
-5360,M S D Warren Township,5361,Warren Central High School,B
-5360,M S D Warren Township,5364,Creston Middle School,D
-5360,M S D Warren Township,5367,Stonybrook Middle School,D
-5360,M S D Warren Township,5368,Raymond Park Middle School,C
-5360,M S D Warren Township,5369,Eastridge Elementary School,C
-5360,M S D Warren Township,5370,Hawthorne Elementary School,B
-5360,M S D Warren Township,5373,Grassy Creek Elementary School,A
-5360,M S D Warren Township,5375,Lakeside Elementary School,D
-5360,M S D Warren Township,5377,Lowell Elementary School,C
-5360,M S D Warren Township,5386,Pleasant Run Elementary School,C
-5360,M S D Warren Township,5389,Sunny Heights Elementary School,F
-5360,M S D Warren Township,5391,Brookview Elementary School,B
-5360,M S D Warren Township,5397,Liberty Park Elementary School,A
-5360,M S D Warren Township,5399,Creston Intermediate Academy,D
-5360,M S D Warren Township,5401,Stonybrook Intermediate Academy,D
-5360,M S D Warren Township,5402,Raymond Park Intermediate,D
-5370,M S D Washington Township,5403,Allisonville Elementary School,B
-5370,M S D Washington Township,5406,Crooked Creek Elementary School,B
-5370,M S D Washington Township,5418,Greenbriar Elementary School,C
-5370,M S D Washington Township,5424,John Strange Elementary School,A
-5370,M S D Washington Township,5427,Nora Elementary School,B
-5370,M S D Washington Township,5430,Spring Mill Elementary School,C
-5370,M S D Washington Township,5436,Fox Hill Elementary School,C
-5370,M S D Washington Township,5442,Eastwood Middle School,B
-5370,M S D Washington Township,5445,Northview Middle School,C
-5370,M S D Washington Township,5448,Westlane Middle School,D
-5370,M S D Washington Township,5451,North Central High School,B
-5375,M S D Wayne Township,5213,Ben Davis High School,B
-5375,M S D Wayne Township,5219,Ben Davis Ninth Grade Center,No Grade
-5375,M S D Wayne Township,5221,Chapel Hill 7th & 8th Grade Center,C
-5375,M S D Wayne Township,5222,Lynhurst 7th & 8th Grade Center,C
-5375,M S D Wayne Township,5223,Maplewood Elementary School,D
-5375,M S D Wayne Township,5227,Chapel Glen Elementary School,D
-5375,M S D Wayne Township,5241,Garden City Elementary School,C
-5375,M S D Wayne Township,5257,McClelland Elementary School,B
-5375,M S D Wayne Township,5261,Rhoades Elementary School,D
-5375,M S D Wayne Township,5265,Robey Elementary School,B
-5375,M S D Wayne Township,5267,North Wayne Elementary School,D
-5375,M S D Wayne Township,5270,Stout Field Elementary School,B
-5375,M S D Wayne Township,5273,Westlake Elementary School,C
-5375,M S D Wayne Township,5274,Chapelwood Elementary School,B
-5375,M S D Wayne Township,5288,Achieve Virtual Education Academy,D
-5375,M S D Wayne Township,5446,Bridgeport Elementary School,B
-5375,M S D Wayne Township,5447,Ben Davis University High School,B
-5380,Beech Grove City Schools,5449,Beech Grove Sr High School,B
-5380,Beech Grove City Schools,5453,Beech Grove Middle School,D
-5380,Beech Grove City Schools,5457,Central Elementary School,D
-5380,Beech Grove City Schools,5461,South Grove Intermediate School,C
-5380,Beech Grove City Schools,5463,Hornet Park Elementary School,D
-5385,Indianapolis Public Schools,0108,Impact Academy,No Grade
-5385,Indianapolis Public Schools,0109,Thrival Academy,No Grade
-5385,Indianapolis Public Schools,5462,Arsenal Technical High School,No Grade
-5385,Indianapolis Public Schools,5466,Arlington Community Middle School,No Grade
-5385,Indianapolis Public Schools,5467,HW Longfellow Med/STEM Magnet Midl,A
-5385,Indianapolis Public Schools,5474,Crispus Attucks High School,No Grade
-5385,Indianapolis Public Schools,5492,Shortridge High School,A
-5385,Indianapolis Public Schools,5498,Cold Spring School,A
-5385,Indianapolis Public Schools,5515,Thomas D Gregg School 15,A
-5385,Indianapolis Public Schools,5516,Northwest Community Middle School,F
-5385,Indianapolis Public Schools,5531,James A Garfield School 31,D
-5385,Indianapolis Public Schools,5534,Eleanor Skillen School 34,F
-5385,Indianapolis Public Schools,5538,Center for Inquiry School 70,A
-5385,Indianapolis Public Schools,5539,William McKinley School 39,C
-5385,Indianapolis Public Schools,5543,James Whitcomb Riley School 43,F
-5385,Indianapolis Public Schools,5544,Riverside School 44,A
-5385,Indianapolis Public Schools,5546,Daniel Webster School 46,D
-5385,Indianapolis Public Schools,5548,Louis B Russell Jr School 48,F
-5385,Indianapolis Public Schools,5549,William Penn School 49,D
-5385,Indianapolis Public Schools,5551,James Russell Lowell School 51,F
-5385,Indianapolis Public Schools,5554,Brookside School 54,F
-5385,Indianapolis Public Schools,5555,IPS/ Butler Eliza Blaker School 55,B
-5385,Indianapolis Public Schools,5556,Francis W Parker School 56,D
-5385,Indianapolis Public Schools,5557,George W Julian School 57,D
-5385,Indianapolis Public Schools,5558,Ralph Waldo Emerson School 58,D
-5385,Indianapolis Public Schools,5560,IPS/ Butler Lab @ William Bell 60,C
-5385,Indianapolis Public Schools,5565,Raymond F Brandes School 65,D
-5385,Indianapolis Public Schools,5567,Stephen Foster School 67,F
-5385,Indianapolis Public Schools,5569,Joyce Kilmer School 69,B
-5385,Indianapolis Public Schools,5570,Edison School of the Arts 47,A
-5385,Indianapolis Public Schools,5574,Theodore Potter School 74,C
-5385,Indianapolis Public Schools,5577,Merle Sidener Gifted Academy,A
-5385,Indianapolis Public Schools,5579,Carl Wilde School 79,D
-5385,Indianapolis Public Schools,5582,Christian Park School 82,F
-5385,Indianapolis Public Schools,5583,Floro Torrence School 83,D
-5385,Indianapolis Public Schools,5587,George Washington Carver School 87,B
-5385,Indianapolis Public Schools,5588,Anna Brochhausen School 88,F
-5385,Indianapolis Public Schools,5590,Ernie Pyle School 90,B
-5385,Indianapolis Public Schools,5591,Rousseau McClellan School 91,D
-5385,Indianapolis Public Schools,5593,George H Fisher School 93,A
-5385,Indianapolis Public Schools,5596,Meredith Nicholson School 96,D
-5385,Indianapolis Public Schools,5597,Emma Donnan Elementary School,A
-5385,Indianapolis Public Schools,5601,H L Harshman Middle School,F
-5385,Indianapolis Public Schools,5603,Phalen at Francis Scott Key 103,A
-5385,Indianapolis Public Schools,5605,Charles Warren Fairbanks Sch 105,F
-5385,Indianapolis Public Schools,5606,Robert Lee Frost School 106,F
-5385,Indianapolis Public Schools,5607,Lew Wallace School 107,D
-5385,Indianapolis Public Schools,5609,Jonathan Jennings School 109,D
-5385,Indianapolis Public Schools,5614,Paul I Miller School 114,D
-5385,Indianapolis Public Schools,5619,George S Buck School 94,F
-5385,Indianapolis Public Schools,5623,Arlington Woods School 99,F
-5385,Indianapolis Public Schools,5635,Center For Inquiry School 2,C
-5385,Indianapolis Public Schools,5644,George Washington High School,No Grade
-5385,Indianapolis Public Schools,5659,Center for Inquiry School 84,A
-5385,Indianapolis Public Schools,5662,Clarence Farrington School 61,F
-5385,Indianapolis Public Schools,5668,Center for Inquiry School 27,C
-5385,Indianapolis Public Schools,5674,Frederick Douglass School 19,D
-5400,School Town of Speedway,5889,Speedway Junior High School,A
-5400,School Town of Speedway,5891,Speedway Senior High School,A
-5400,School Town of Speedway,5893,James A Allison Elementary Sch 3,B
-5400,School Town of Speedway,5897,Carl G Fisher Elementary School 1,A
-5400,School Town of Speedway,5901,Arthur C Newby Elementary School 2,A
-5400,School Town of Speedway,5905,Frank H Wheeler Elementary Sch 4,A
-5455,Culver Community Schools Corp,5245,Culver Community Middle/High Sch,B
-5455,Culver Community Schools Corp,5928,Culver Elementary School,C
-5470,Argos Community Schools,5936,Argos Community Elementary,B
-5470,Argos Community Schools,5937,Argos Comm Jr-Sr High School,B
-5480,Bremen Public Schools,5941,Bremen Senior High School,A
-5480,Bremen Public Schools,5943,Bremen Elementary/Middle School,B
-5485,Plymouth Community School Corp,5933,Menominee Elementary School,C
-5485,Plymouth Community School Corp,5945,Plymouth High School,B
-5485,Plymouth Community School Corp,5949,Lincoln Junior High School,C
-5485,Plymouth Community School Corp,5956,Riverside Intermediate,B
-5485,Plymouth Community School Corp,5961,Jefferson Elementary School,D
-5485,Plymouth Community School Corp,5965,Washington Discovery Academy,A
-5485,Plymouth Community School Corp,5969,Webster Elementary School,D
-5495,Triton School Corporation,5922,Triton Elementary School,B
-5495,Triton School Corporation,5923,Triton Jr-Sr High School,A
-5520,Shoals Community School Corp,5985,Shoals Community High School,B
-5520,Shoals Community School Corp,5989,Shoals Community Elementary School,B
-5520,Shoals Community School Corp,5991,Shoals Middle School,B
-5525,Loogootee Community Sch Corp,5997,Loogootee Elementary School,A
-5525,Loogootee Community Sch Corp,6001,Loogootee Middle School,B
-5525,Loogootee Community Sch Corp,6003,Loogootee High School,B
-5615,Maconaquah School Corp,6012,Pipe Creek Elementary School,D
-5615,Maconaquah School Corp,6032,Maconaquah High School,A
-5615,Maconaquah School Corp,6033,Maconaquah Middle School,C
-5615,Maconaquah School Corp,6035,Maconaquah Elementary School,D
-5620,North Miami Community Schools,6049,North Miami Middle/High School,B
-5620,North Miami Community Schools,6051,North Miami Elementary School,B
-5625,Oak Hill United School Corp,2305,Oak Hill Junior High School,B
-5625,Oak Hill United School Corp,2306,Swayzee Elementary School,B
-5625,Oak Hill United School Corp,6069,Oak Hill High School,A
-5625,Oak Hill United School Corp,6073,Converse Elementary School,B
-5625,Oak Hill United School Corp,6081,Sweetser Elementary School,B
-5635,Peru Community Schools,6085,Peru High School,B
-5635,Peru Community Schools,6089,Peru Junior High School,B
-5635,Peru Community Schools,6093,Blair Pointe Upper Elementary,B
-5635,Peru Community Schools,6097,Elmwood Primary Learning Center,B
-5705,Richland-Bean Blossom C S C,6146,Edgewood High School,B
-5705,Richland-Bean Blossom C S C,6147,Edgewood Junior High School,A
-5705,Richland-Bean Blossom C S C,6151,Edgewood Primary School,B
-5705,Richland-Bean Blossom C S C,6153,Edgewood Intermediate School,B
-5740,Monroe County Community Sch Corp,6123,Unionville Elementary School,A
-5740,Monroe County Community Sch Corp,6134,Lakeview Elementary School,B
-5740,Monroe County Community Sch Corp,6157,Grandview Elementary School,C
-5740,Monroe County Community Sch Corp,6162,Highland Park Elementary School,C
-5740,Monroe County Community Sch Corp,6164,Summit Elementary School,B
-5740,Monroe County Community Sch Corp,6166,Bloomington High School South,A
-5740,Monroe County Community Sch Corp,6168,Bloomington High School North,A
-5740,Monroe County Community Sch Corp,6170,Tri-North Middle School,B
-5740,Monroe County Community Sch Corp,6172,Lora L Batchelor Middle School,B
-5740,Monroe County Community Sch Corp,6173,Binford Elementary School,A
-5740,Monroe County Community Sch Corp,6181,Arlington Heights Elementary Sch,A
-5740,Monroe County Community Sch Corp,6187,Childs Elementary School,A
-5740,Monroe County Community Sch Corp,6189,Clear Creek Elementary School,C
-5740,Monroe County Community Sch Corp,6197,Fairview Elementary School,C
-5740,Monroe County Community Sch Corp,6202,The Acad of Sci & Entrepreneurship,A
-5740,Monroe County Community Sch Corp,6213,Marlin Elementary School,A
-5740,Monroe County Community Sch Corp,6217,Rogers Elementary School,A
-5740,Monroe County Community Sch Corp,6220,Bloomington Graduation School,C
-5740,Monroe County Community Sch Corp,6223,Jackson Creek Middle School,B
-5740,Monroe County Community Sch Corp,6225,Templeton Elementary School,C
-5740,Monroe County Community Sch Corp,6226,University Elementary School,A
-5835,North Montgomery Com Sch Corp,6240,Pleasant Hill Elementary School,B
-5835,North Montgomery Com Sch Corp,6243,Lester B Sommer Elementary School,A
-5835,North Montgomery Com Sch Corp,6244,Northridge Middle School,B
-5835,North Montgomery Com Sch Corp,6246,Sugar Creek Elementary School,B
-5835,North Montgomery Com Sch Corp,6271,North Montgomery High School,A
-5845,South Montgomery Com Sch Corp,6233,Ladoga Elementary School,A
-5845,South Montgomery Com Sch Corp,6257,Southmont Sr High School,A
-5845,South Montgomery Com Sch Corp,6258,Walnut Elementary School,A
-5845,South Montgomery Com Sch Corp,6261,Southmont Jr High School,B
-5845,South Montgomery Com Sch Corp,6269,New Market Elementary School,A
-5855,Crawfordsville Community Schools,6277,Crawfordsville Sr High School,B
-5855,Crawfordsville Community Schools,6281,Crawfordsville Middle School,C
-5855,Crawfordsville Community Schools,6289,Mollie B Hoover Elementary School,C
-5855,Crawfordsville Community Schools,6293,Laura Hose Elementary School,C
-5855,Crawfordsville Community Schools,6301,Meredith Nicholson Elementary Sch,C
-5900,Monroe-Gregg School District,6315,Monrovia Middle School,C
-5900,Monroe-Gregg School District,6321,Monrovia High School,A
-5900,Monroe-Gregg School District,6323,Monrovia Elementary School,B
-5910,Eminence Community School Corp,6325,Eminence Jr-Sr High School,C
-5910,Eminence Community School Corp,6327,Eminence Elementary School,C
-5925,M S D Martinsville Schools,6309,Green Township Elementary School,C
-5925,M S D Martinsville Schools,6329,Martinsville High School,A
-5925,M S D Martinsville Schools,6332,John R. Wooden Middle School,A
-5925,M S D Martinsville Schools,6334,Bell Intermediate Academy,A
-5925,M S D Martinsville Schools,6337,Brooklyn STEM Academy,B
-5925,M S D Martinsville Schools,6341,Centerton Elementary School,A
-5925,M S D Martinsville Schools,6344,South Elementary School,B
-5925,M S D Martinsville Schools,6349,Charles L Smith Arts Academy,B
-5925,M S D Martinsville Schools,6357,Paragon Elementary School,B
-5925,M S D Martinsville Schools,6361,Poston Road Elementary School,A
-5930,Mooresville Con School Corp,6369,Mooresville High School,B
-5930,Mooresville Con School Corp,6373,Paul Hadley Middle School,B
-5930,Mooresville Con School Corp,6375,Neil Armstrong Elementary School,B
-5930,Mooresville Con School Corp,6381,Newby Memorial Elementary School,A
-5930,Mooresville Con School Corp,6385,North Madison Elementary School,B
-5930,Mooresville Con School Corp,6387,Northwood Elementary School,B
-5930,Mooresville Con School Corp,6393,Waverly Elementary School,A
-5945,North Newton School Corp,6397,Morocco Elementary School,C
-5945,North Newton School Corp,6405,Lake Village Elementary School,B
-5945,North Newton School Corp,6409,Lincoln Elementary School,C
-5945,North Newton School Corp,6411,North Newton Jr-Sr High School,C
-5995,South Newton School Corp,6417,South Newton Senior High School,A
-5995,South Newton School Corp,6431,South Newton Elementary School,B
-5995,South Newton School Corp,6433,South Newton Middle School,B
-6055,Central Noble Com School Corp,6442,Central Noble Primary School,C
-6055,Central Noble Com School Corp,6453,Central Noble Junior Senior HS,B
-6055,Central Noble Com School Corp,6454,Central Noble Elementary School,D
-6060,East Noble School Corporation,6457,Avilla Elementary School,C
-6060,East Noble School Corporation,6458,East Noble High School,A
-6060,East Noble School Corporation,6461,East Noble Middle School,C
-6060,East Noble School Corporation,6465,Rome City Elementary School,C
-6060,East Noble School Corporation,6477,North Side Elementary School,C
-6060,East Noble School Corporation,6478,South Side Elementary School,C
-6060,East Noble School Corporation,6485,Wayne Center Elem School,C
-6065,West Noble School Corporation,6489,West Noble High School,B
-6065,West Noble School Corporation,6491,West Noble Primary School,B
-6065,West Noble School Corporation,6509,West Noble Middle School,B
-6065,West Noble School Corporation,6510,West Noble Elementary School,B
-6080,Rising Sun-Ohio Co Com,6511,Ohio County Elementary School,B
-6080,Rising Sun-Ohio Co Com,6512,Ohio County Middle School,A
-6080,Rising Sun-Ohio Co Com,6513,Rising Sun High School,A
-6145,Orleans Community Schools,6573,Orleans Jr-Sr High School,B
-6145,Orleans Community Schools,6577,Orleans Elementary School,B
-6155,Paoli Community School Corp,6581,Paoli Jr & Sr High School,B
-6155,Paoli Community School Corp,6587,Throop Elementary School,C
-6160,Springs Valley Com School Corp,6589,Springs Valley Comm High School,C
-6160,Springs Valley Com School Corp,6591,Springs Valley Elementary School,B
-6195,Spencer-Owen Community Schools,6597,Owen Valley Middle School,C
-6195,Spencer-Owen Community Schools,6601,Patricksburg Elementary School,D
-6195,Spencer-Owen Community Schools,6605,Gosport Elementary School,A
-6195,Spencer-Owen Community Schools,6613,Owen Valley Community High School,B
-6195,Spencer-Owen Community Schools,6617,Spencer Elementary School,C
-6195,Spencer-Owen Community Schools,6619,McCormick's Creek Elementary Sch,B
-6260,Southwest Parke Com Sch Corp,6621,Rosedale Elementary School,C
-6260,Southwest Parke Com Sch Corp,6627,Riverton Parke Jr-Sr High School,B
-6260,Southwest Parke Com Sch Corp,6629,Montezuma Elementary School,C
-6325,Perry Central Com Schools Corp,6705,Perry Central Elementary School,B
-6325,Perry Central Com Schools Corp,6708,Perry Central Jr-Sr High School,A
-6340,Cannelton City Schools,6733,Cannelton Elementary & High School,D
-6350,Tell City-Troy Twp School Corp,6741,Tell City Jr-Sr High School,A
-6350,Tell City-Troy Twp School Corp,6745,William Tell Elementary School,C
-6375,North Central Parke Comm Schl Corp,6645,Rockville Elementary School,C
-6375,North Central Parke Comm Schl Corp,6647,Turkey Run Elementary School,C
-6375,North Central Parke Comm Schl Corp,6652,Parke Heritage Middle School,No Grade
-6375,North Central Parke Comm Schl Corp,6654,Parke Heritage High School,A
-6445,Pike County School Corp,6763,Pike Central High School,B
-6445,Pike County School Corp,6768,Pike Central Middle School,C
-6445,Pike County School Corp,6808,Winslow Elementary School,C
-6445,Pike County School Corp,6809,Petersburg Elementary School,C
-6460,M S D Boone Township,6813,Hebron High School,A
-6460,M S D Boone Township,6814,Hebron Middle School,B
-6460,M S D Boone Township,6815,Hebron Elementary School,C
-6470,Duneland School Corporation,6817,Jackson Elementary School,A
-6470,Duneland School Corporation,6819,Brummitt Elementary School,B
-6470,Duneland School Corporation,6821,Liberty Intermediate School,A
-6470,Duneland School Corporation,6823,Liberty Elementary School,A
-6470,Duneland School Corporation,6925,Chesterton Senior High School,A
-6470,Duneland School Corporation,6927,Westchester Intermediate School,C
-6470,Duneland School Corporation,6928,Bailly Elementary School,B
-6470,Duneland School Corporation,6930,Chesterton Middle School,C
-6470,Duneland School Corporation,6941,Newton Yost Elementary School,B
-6510,East Porter County School Corp,6825,Morgan Township Middle/High School,A
-6510,East Porter County School Corp,6828,Morgan Township Elementary School,A
-6510,East Porter County School Corp,6833,Kouts Middle/High School,B
-6510,East Porter County School Corp,6835,Kouts Elementary School,B
-6510,East Porter County School Corp,6849,Washington Twp Middle/High School,A
-6510,East Porter County School Corp,6852,Washington Twp Elementary School,B
-6520,Porter Township School Corp,6837,Boone Grove Elementary School,C
-6520,Porter Township School Corp,6838,Boone Grove High School,A
-6520,Porter Township School Corp,6839,Boone Grove Middle School,B
-6520,Porter Township School Corp,6840,Porter Lakes Elementary School,C
-6530,Union Township School Corp,6841,Wheeler High School,A
-6530,Union Township School Corp,6843,Union Township Middle School,A
-6530,Union Township School Corp,6845,Union Center Elementary School,A
-6530,Union Township School Corp,6846,John Simatovich Elementary School,B
-6550,Portage Township Schools,6853,Portage High School,B
-6550,Portage Township Schools,6857,Wallace Aylesworth Elementary,B
-6550,Portage Township Schools,6859,William Fegely Middle School,B
-6550,Portage Township Schools,6861,Crisman Elementary School,B
-6550,Portage Township Schools,6865,Central Elementary School,C
-6550,Portage Township Schools,6869,Ethel R Jones Elementary School,B
-6550,Portage Township Schools,6871,Willowcreek Middle School,B
-6550,Portage Township Schools,6874,Rowena Kyle Elementary School,B
-6550,Portage Township Schools,6876,Paul Saylor Elementary School,B
-6550,Portage Township Schools,6877,George L Myers Elementary School,B
-6550,Portage Township Schools,6879,South Haven Elementary School,B
-6560,Valparaiso Community Schools,6881,Valparaiso High School,A
-6560,Valparaiso Community Schools,6885,Benjamin Franklin Middle School,A
-6560,Valparaiso Community Schools,6887,Thomas Jefferson Middle School,A
-6560,Valparaiso Community Schools,6888,Thomas Jefferson Elementary School,A
-6560,Valparaiso Community Schools,6891,Central Elementary School,A
-6560,Valparaiso Community Schools,6893,Flint Lake Elementary School,A
-6560,Valparaiso Community Schools,6897,Cooks Corners Elementary School,A
-6560,Valparaiso Community Schools,6903,Heavilin Elementary School,A
-6560,Valparaiso Community Schools,6913,Memorial Elementary School,B
-6560,Valparaiso Community Schools,6917,Northview Elementary School,A
-6560,Valparaiso Community Schools,6921,Parkview Elementary School,A
-6590,M S D Mount Vernon,6949,Mount Vernon High School,A
-6590,M S D Mount Vernon,6953,Mount Vernon Jr High School,B
-6590,M S D Mount Vernon,6961,West Elementary School,A
-6590,M S D Mount Vernon,6965,Farmersville Elementary School,A
-6590,M S D Mount Vernon,6969,Marrs Elementary School,A
-6600,M S D North Posey Co Schools,6973,North Posey Junior High School,B
-6600,M S D North Posey Co Schools,6975,North Posey High School,A
-6600,M S D North Posey Co Schools,6985,North Elementary School,C
-6600,M S D North Posey Co Schools,6989,South Terrace Elementary,A
-6620,Eastern Pulaski Community Sch Corp,6994,Eastern Pulaski Elementary School,C
-6620,Eastern Pulaski Community Sch Corp,6996,Winamac Community Middle School,B
-6620,Eastern Pulaski Community Sch Corp,6997,Winamac Community High School,A
-6630,West Central School Corp,7025,West Central Senior High School,B
-6630,West Central School Corp,7027,West Central Elementary School,D
-6630,West Central School Corp,7031,West Central Middle School,C
-6705,South Putnam Community Schools,7055,Central Elementary School,B
-6705,South Putnam Community Schools,7056,South Putnam Middle School,C
-6705,South Putnam Community Schools,7057,Fillmore Elementary School,A
-6705,South Putnam Community Schools,7071,South Putnam High School,B
-6715,North Putnam Community Schools,7041,Bainbridge Elementary School,C
-6715,North Putnam Community Schools,7045,Roachdale Elementary School,B
-6715,North Putnam Community Schools,7049,North Putnam Middle School,B
-6715,North Putnam Community Schools,7061,North Putnam Sr High School,A
-6750,Cloverdale Community Schools,7077,Cloverdale High School,A
-6750,Cloverdale Community Schools,7082,Cloverdale Elementary School,B
-6750,Cloverdale Community Schools,7085,Cloverdale Middle School,B
-6755,Greencastle Community School Corp,7089,Greencastle Senior High School,B
-6755,Greencastle Community School Corp,7093,Greencastle Middle School,C
-6755,Greencastle Community School Corp,7102,Tzouanakis Intermediate School,C
-6755,Greencastle Community School Corp,7105,Martha J Ridpath Elementary School,C
-6755,Greencastle Community School Corp,7107,Deer Meadow Primary School,C
-6795,Union School Corporation,7117,Union Elementary School,F
-6795,Union School Corporation,7119,Union Junior & High School,D
-6795,Union School Corporation,7122,Indiana Digital Elementary,No Grade
-6795,Union School Corporation,7131,Indiana Digital JR and High School,No Grade
-6795,Union School Corporation,7142,Indiana Digital Alternative School,No Grade
-6805,Randolph Southern School Corp,7113,Randolph Southern Elementary Sch,A
-6805,Randolph Southern School Corp,7121,Randolph Southern Jr-Sr High Sch,B
-6820,Monroe Central School Corp,7151,Monroe Central Jr-Sr High School,B
-6820,Monroe Central School Corp,7152,Monroe Central Elementary School,A
-6825,Randolph Central School Corp,7125,Winchester Community High School,B
-6825,Randolph Central School Corp,7129,Lee L Driver Middle School,C
-6825,Randolph Central School Corp,7133,O R Baker Elementary School,B
-6825,Randolph Central School Corp,7145,Willard Elementary School,B
-6825,Randolph Central School Corp,7146,Deerfield Elementary School,A
-6835,Randolph Eastern School Corp,7161,Union City Community Jr/Sr High ,C
-6835,Randolph Eastern School Corp,7164,North Side Elementary School,A
-6865,South Ripley Com Sch Corp,7174,South Ripley Junior High School,A
-6865,South Ripley Com Sch Corp,7178,South Ripley Elementary School,A
-6865,South Ripley Com Sch Corp,7182,South Ripley High School,B
-6895,Batesville Community School Corp,7217,Batesville High School,A
-6895,Batesville Community School Corp,7218,Batesville Primary School,B
-6895,Batesville Community School Corp,7219,Batesville Middle School,A
-6895,Batesville Community School Corp,7229,Batesville Intermediate School,B
-6900,Jac-Cen-Del Community Sch Corp,7193,Jac-Cen-Del MS/HS,A
-6900,Jac-Cen-Del Community Sch Corp,7203,Jac-Cen-Del Elementary School,B
-6910,Milan Community Schools,7205,Milan High School,A
-6910,Milan Community Schools,7207,Milan Middle School,B
-6910,Milan Community Schools,7209,Milan Elementary School,B
-6910,Milan Community Schools,7212,Milan Intermediate School,B
-6995,Rush County Schools,7233,Milroy Elementary School,B
-6995,Rush County Schools,7253,Arlington Elementary School,A
-6995,Rush County Schools,7271,Rushville Elementary School East,A
-6995,Rush County Schools,7272,Rushville Elementary School West,C
-6995,Rush County Schools,7285,Rushville Consolidated High School,A
-6995,Rush County Schools,7290,Benjamin Rush Middle School,C
-7150,John Glenn School Corporation,5916,Harold C Urey Middle School,B
-7150,John Glenn School Corporation,7453,John Glenn High School,A
-7150,John Glenn School Corporation,7456,North Liberty School,A
-7150,John Glenn School Corporation,7457,Walkerton Elementary School,A
-7175,Penn-Harris-Madison School Corp,7323,Walt Disney Elementary School,B
-7175,Penn-Harris-Madison School Corp,7324,Prairie Vista Elementary School,A
-7175,Penn-Harris-Madison School Corp,7329,Mary Frank Harris Elementary Sch,B
-7175,Penn-Harris-Madison School Corp,7334,Schmucker Middle School,B
-7175,Penn-Harris-Madison School Corp,7336,Virgil I Grissom Middle School,C
-7175,Penn-Harris-Madison School Corp,7341,Madison Elementary School,B
-7175,Penn-Harris-Madison School Corp,7353,Penn High School,A
-7175,Penn-Harris-Madison School Corp,7361,Elm Road Elementary School,A
-7175,Penn-Harris-Madison School Corp,7365,Elsie Rogers Elementary School,A
-7175,Penn-Harris-Madison School Corp,7372,Discovery Middle School,A
-7175,Penn-Harris-Madison School Corp,7377,Moran Elementary School,A
-7175,Penn-Harris-Madison School Corp,7379,Bittersweet Elementary School,A
-7175,Penn-Harris-Madison School Corp,7383,Horizon Elementary School,A
-7175,Penn-Harris-Madison School Corp,7386,Meadow's Edge Elementary School,C
-7175,Penn-Harris-Madison School Corp,7390,Northpoint Elementary School,A
-7200,School City of Mishawaka,7459,Fred J Hums Elementary School,C
-7200,School City of Mishawaka,7461,Mishawaka High School,B
-7200,School City of Mishawaka,7465,John J Young Middle School,C
-7200,School City of Mishawaka,7469,Battell Elementary School,C
-7200,School City of Mishawaka,7473,Beiger Elementary School,D
-7200,School City of Mishawaka,7478,Liberty Elementary School,C
-7200,School City of Mishawaka,7481,Emmons Elementary School,D
-7200,School City of Mishawaka,7485,Lasalle Elementary School,D
-7200,School City of Mishawaka,7499,Twin Branch Elementary School,C
-7205,South Bend Community School Corp,7313,Hay Elementary School,D
-7205,South Bend Community School Corp,7417,Warren Elementary School,D
-7205,South Bend Community School Corp,7421,Clay High School,C
-7205,South Bend Community School Corp,7425,Clay International Academy,D
-7205,South Bend Community School Corp,7435,Darden Elementary School,D
-7205,South Bend Community School Corp,7441,Swanson Traditional School,B
-7205,South Bend Community School Corp,7505,Adams High School,A
-7205,South Bend Community School Corp,7510,Jackson Middle School,D
-7205,South Bend Community School Corp,7512,LaSalle Academy,B
-7205,South Bend Community School Corp,7513,Riley High School,B
-7205,South Bend Community School Corp,7517,Washington High School,C
-7205,South Bend Community School Corp,7533,Coquillard Elementary School ,F
-7205,South Bend Community School Corp,7534,Rise Up Academy at Eggleston,C
-7205,South Bend Community School Corp,7537,Edison Middle School,F
-7205,South Bend Community School Corp,7545,Harrison Elementary School,D
-7205,South Bend Community School Corp,7546,Hamilton Traditional School,D
-7205,South Bend Community School Corp,7549,Jefferson Traditional School,C
-7205,South Bend Community School Corp,7555,Kennedy Academy,B
-7205,South Bend Community School Corp,7559,Dickinson Fine Arts Academy,D
-7205,South Bend Community School Corp,7561,Lincoln Elementary School,D
-7205,South Bend Community School Corp,7569,McKinley Elementary School,D
-7205,South Bend Community School Corp,7573,Madison S.T.E.A.M. Academy ,C
-7205,South Bend Community School Corp,7577,Marquette Montessori Academy,F
-7205,South Bend Community School Corp,7585,Monroe Elementary School,D
-7205,South Bend Community School Corp,7588,Wilson Elementary School,F
-7205,South Bend Community School Corp,7593,Muessel Elementary School,F
-7205,South Bend Community School Corp,7597,Navarre Middle School,F
-7205,South Bend Community School Corp,7601,Nuner Fine Arts Academy,C
-7205,South Bend Community School Corp,7621,Tarkington Elementary School,A
-7215,Union-North United School Corp,7399,LaVille Jr-Sr High School,Appeal Pending
-7215,Union-North United School Corp,7400,LaVille Elementary School,B
-7230,Scott County School District 1,7629,Austin High School,B
-7230,Scott County School District 1,7630,Austin Elementary School,C
-7230,Scott County School District 1,7631,Austin Middle School,C
-7255,Scott County School District 2,7633,Johnson Elementary School,A
-7255,Scott County School District 2,7637,Lexington Elementary School,B
-7255,Scott County School District 2,7641,Scottsburg Senior High School,B
-7255,Scott County School District 2,7645,Scottsburg Middle School,C
-7255,Scott County School District 2,7649,Scottsburg Elem School,B
-7255,Scott County School District 2,7653,Vienna-Finley Elementary School,B
-7285,Shelby Eastern Schools,7661,Morristown Jr-Sr High School,B
-7285,Shelby Eastern Schools,7663,Morristown Elementary School,B
-7285,Shelby Eastern Schools,7665,Waldron Jr-Sr High School,C
-7285,Shelby Eastern Schools,7667,Waldron Elementary School,C
-7350,Northwestern Con School Corp,7689,Triton Central High School,A
-7350,Northwestern Con School Corp,7691,Triton Central Elementary School,B
-7350,Northwestern Con School Corp,7697,Triton Central Middle School,B
-7360,Southwestern Con Sch Shelby Co,7701,Southwestern High School,B
-7360,Southwestern Con Sch Shelby Co,7703,Southwestern Elementary School,C
-7365,Shelbyville Central Schools,7717,Shelbyville Sr High School,B
-7365,Shelbyville Central Schools,7721,Shelbyville Middle School,B
-7365,Shelbyville Central Schools,7725,Coulston Elementary School,B
-7365,Shelbyville Central Schools,7729,Thomas A Hendricks Elementary Sch,C
-7365,Shelbyville Central Schools,7733,William F Loper Elementary School,A
-7385,North Spencer County Sch Corp,7751,Chrisney Elementary School,A
-7385,North Spencer County Sch Corp,7753,David Turnham Education Center,A
-7385,North Spencer County Sch Corp,7755,Nancy Hanks Elementary School,A
-7385,North Spencer County Sch Corp,7759,Heritage Hills High School,A
-7385,North Spencer County Sch Corp,7761,Heritage Hills Middle School,A
-7385,North Spencer County Sch Corp,7767,Lincoln Trail Elementary School,A
-7445,South Spencer County Sch Corp,7789,Luce Elementary School,B
-7445,South Spencer County Sch Corp,7795,South Spencer High School,B
-7445,South Spencer County Sch Corp,7797,South Spencer Middle School,A
-7445,South Spencer County Sch Corp,7803,Rockport-Ohio Elementary School,B
-7495,Oregon-Davis School Corp,7818,Oregon-Davis Elementary School,A
-7495,Oregon-Davis School Corp,7831,Oregon-Davis Jr-Sr High School,C
-7515,North Judson-San Pierre Sch Corp,7849,N Judson-San Pierre Jr Sr High Sch,B
-7515,North Judson-San Pierre Sch Corp,7851,North Judson-San Pierre Elem Sch,C
-7525,Knox Community School Corp,7833,Knox Community High School,A
-7525,Knox Community School Corp,7837,Knox Community Middle School,D
-7525,Knox Community School Corp,7845,Knox Community Elementary School,B
-7605,Fremont Community Schools,7877,Fremont High School,A
-7605,Fremont Community Schools,7881,Fremont Elementary School,B
-7605,Fremont Community Schools,7884,Fremont Middle School,A
-7610,Hamilton Community Schools,7885,Hamilton Community High School,B
-7610,Hamilton Community Schools,7889,Hamilton Community Elementary Sch,C
-7615,M S D Steuben County,7893,Angola High School,B
-7615,M S D Steuben County,7895,Angola Middle School,C
-7615,M S D Steuben County,7897,Carlin Park Elementary School,C
-7615,M S D Steuben County,7899,Ryan Park Elementary School,C
-7615,M S D Steuben County,7901,Hendry Park Elementary School,C
-7615,M S D Steuben County,7905,Pleasant Lake Elementary School,C
-7645,Northeast School Corp,7911,Northeast Middle School,D
-7645,Northeast School Corp,7917,North Central High School,A
-7645,Northeast School Corp,7921,Northeast North Elementary School,B
-7645,Northeast School Corp,7941,Northeast East Elementary School,A
-7715,Southwest School Corp,7953,Carlisle Elementary School,A
-7715,Southwest School Corp,7954,Carlisle Middle School,A
-7715,Southwest School Corp,7957,Sullivan High School,A
-7715,Southwest School Corp,7961,Sullivan Middle School,C
-7715,Southwest School Corp,7965,Sullivan Elementary School,B
-7775,Switzerland County School Corp,7985,Jefferson-Craig Elementary School,C
-7775,Switzerland County School Corp,7987,Switzerland Co Middle School,D
-7775,Switzerland County School Corp,7993,Switzerland Co Senior High School,B
-7775,Switzerland County School Corp,7994,Switzerland Co Elementary School,D
-7855,Lafayette School Corporation,8015,Oakland High School,F
-7855,Lafayette School Corporation,8069,Jefferson High School,B
-7855,Lafayette School Corporation,8073,Lafayette Sunnyside Intermediate,D
-7855,Lafayette School Corporation,8077,Lafayette Tecumseh Jr High School,D
-7855,Lafayette School Corporation,8089,Edgelea Elementary School,A
-7855,Lafayette School Corporation,8091,Glen Acres Elementary School,A
-7855,Lafayette School Corporation,8103,Miami Elementary School,C
-7855,Lafayette School Corporation,8104,Thomas Miller Elementary School,C
-7855,Lafayette School Corporation,8105,Murdock Elementary School,A
-7855,Lafayette School Corporation,8108,Oakland Elementary School,A
-7855,Lafayette School Corporation,8117,Vinton Elementary School,C
-7855,Lafayette School Corporation,8119,Amelia Earhart Elementary School,C
-7865,Tippecanoe School Corp,8003,McCutcheon High School,B
-7865,Tippecanoe School Corp,8005,Mayflower Mill Elementary School,B
-7865,Tippecanoe School Corp,8006,Wyandotte Elementary,A
-7865,Tippecanoe School Corp,8007,Hershey Elementary School,A
-7865,Tippecanoe School Corp,8009,Mintonye Elementary School,C
-7865,Tippecanoe School Corp,8017,Dayton Elementary School,B
-7865,Tippecanoe School Corp,8019,Burnett Creek Elementary School,A
-7865,Tippecanoe School Corp,8021,Wea Ridge Elementary School,C
-7865,Tippecanoe School Corp,8024,Battle Ground Elementary School,B
-7865,Tippecanoe School Corp,8025,Battle Ground Middle School,D
-7865,Tippecanoe School Corp,8026,Wainwright Middle School,D
-7865,Tippecanoe School Corp,8029,William Henry Harrison High School,A
-7865,Tippecanoe School Corp,8033,East Tipp Middle School,B
-7865,Tippecanoe School Corp,8035,James Cole Elementary School,A
-7865,Tippecanoe School Corp,8041,Klondike Middle School,B
-7865,Tippecanoe School Corp,8042,Klondike Elementary School,B
-7865,Tippecanoe School Corp,8045,Southwestern Middle School,C
-7865,Tippecanoe School Corp,8049,Wea Ridge Middle School,B
-7865,Tippecanoe School Corp,8111,Woodland Elementary School,C
-7875,West Lafayette Com School Corp,8129,West Lafayette Jr/Sr High School,A
-7875,West Lafayette Com School Corp,8135,West Lafayette Intermediate School,A
-7875,West Lafayette Com School Corp,8138,Cumberland Elementary School,A
-7935,Tri-Central Community Schools,8154,Tri Central Elementary,C
-7935,Tri-Central Community Schools,8155,Tri Central Middle-High School,C
-7945,Tipton Community School Corp,8163,Tipton Elementary School,B
-7945,Tipton Community School Corp,8167,Tipton Middle School,C
-7945,Tipton Community School Corp,8177,Tipton High School,B
-7950,Union Co/Clg Corner Joint Sch Dist,8193,Union County High School,B
-7950,Union Co/Clg Corner Joint Sch Dist,8206,Union County Middle School,B
-7950,Union Co/Clg Corner Joint Sch Dist,8209,Liberty Elementary School,A
-7950,Union Co/Clg Corner Joint Sch Dist,8213,College Corner Union Elem School,A
-7995,Evansville Vanderburgh School Corp,8225,Cynthia Heights Elementary School,A
-7995,Evansville Vanderburgh School Corp,8229,Scott Elementary School,A
-7995,Evansville Vanderburgh School Corp,8230,North Junior High School,B
-7995,Evansville Vanderburgh School Corp,8231,Oak Hill Elementary,A
-7995,Evansville Vanderburgh School Corp,8237,Benjamin Bosse High School,B
-7995,Evansville Vanderburgh School Corp,8241,Central High School,A
-7995,Evansville Vanderburgh School Corp,8242,McCutchanville Elementary School,A
-7995,Evansville Vanderburgh School Corp,8245,Francis Joseph Reitz High School,B
-7995,Evansville Vanderburgh School Corp,8251,Lincoln School,D
-7995,Evansville Vanderburgh School Corp,8253,North High School,A
-7995,Evansville Vanderburgh School Corp,8261,Caze Elementary School,F
-7995,Evansville Vanderburgh School Corp,8265,Cedar Hall Community School,D
-7995,Evansville Vanderburgh School Corp,8270,Academy for Innovative Studies,F
-7995,Evansville Vanderburgh School Corp,8271,Harwood Career Prep High School,No Grade
-7995,Evansville Vanderburgh School Corp,8285,Delaware Elementary School,D
-7995,Evansville Vanderburgh School Corp,8289,Dexter Elementary School,D
-7995,Evansville Vanderburgh School Corp,8293,Fairlawn Elementary School,C
-7995,Evansville Vanderburgh School Corp,8301,Glenwood Leadership Academy,F
-7995,Evansville Vanderburgh School Corp,8309,Harper Elementary School,D
-7995,Evansville Vanderburgh School Corp,8311,William Henry Harrison High School,B
-7995,Evansville Vanderburgh School Corp,8317,Hebron Elementary School,B
-7995,Evansville Vanderburgh School Corp,8318,Helfrich Park STEM Academy,B
-7995,Evansville Vanderburgh School Corp,8321,Stockwell Elementary School,B
-7995,Evansville Vanderburgh School Corp,8323,Thompkins Middle School,B
-7995,Evansville Vanderburgh School Corp,8325,Highland Elementary School,C
-7995,Evansville Vanderburgh School Corp,8326,New Tech Institute,B
-7995,Evansville Vanderburgh School Corp,8329,Lodge Community School,F
-7995,Evansville Vanderburgh School Corp,8339,McGary Middle School,D
-7995,Evansville Vanderburgh School Corp,8345,Perry Heights Middle School,B
-7995,Evansville Vanderburgh School Corp,8349,Plaza Park International Prep Acad,B
-7995,Evansville Vanderburgh School Corp,8353,Evans School,F
-7995,Evansville Vanderburgh School Corp,8357,Stringtown Elementary School,C
-7995,Evansville Vanderburgh School Corp,8361,Tekoppel Elementary School,B
-7995,Evansville Vanderburgh School Corp,8365,Vogel Elementary School,C
-7995,Evansville Vanderburgh School Corp,8369,Washington Middle School,D
-7995,Evansville Vanderburgh School Corp,8376,Daniel Wertz Elementary School,B
-7995,Evansville Vanderburgh School Corp,8381,West Terrace Elementary School,A
-8010,North Vermillion Com Sch Corp,8394,North Vermillion High School,C
-8010,North Vermillion Com Sch Corp,8403,North Vermillion Elementary School,B
-8020,South Vermillion Com Sch Corp,8409,Central Elementary School,B
-8020,South Vermillion Com Sch Corp,8431,Ernie Pyle Elementary School,C
-8020,South Vermillion Com Sch Corp,8432,South Vermillion High School,B
-8020,South Vermillion Com Sch Corp,8434,South Vermillion Middle School,C
-8020,South Vermillion Com Sch Corp,8435,Van Duyn Elementary School,D
-8030,Vigo County School Corp,8441,Terre Haute North Vigo High School,B
-8030,Vigo County School Corp,8445,Honey Creek Middle School,B
-8030,Vigo County School Corp,8453,West Vigo High School,A
-8030,Vigo County School Corp,8457,Terre Haute South Vigo High School,A
-8030,Vigo County School Corp,8461,West Vigo Middle School,D
-8030,Vigo County School Corp,8477,Otter Creek Middle School,C
-8030,Vigo County School Corp,8481,Sarah Scott Middle School,C
-8030,Vigo County School Corp,8485,Woodrow Wilson Middle School,B
-8030,Vigo County School Corp,8497,Sugar Creek Consolidated Elem Sch,B
-8030,Vigo County School Corp,8505,Davis Park Elementary School,C
-8030,Vigo County School Corp,8509,Deming Elementary School,D
-8030,Vigo County School Corp,8510,Adelaide De Vaney Elementary Sch,A
-8030,Vigo County School Corp,8511,Dixie Bee Elementary School,A
-8030,Vigo County School Corp,8517,Farrington Grove Elementary School,A
-8030,Vigo County School Corp,8521,Fayette Elementary School,A
-8030,Vigo County School Corp,8525,Rio Grande Elementary School,A
-8030,Vigo County School Corp,8533,Benjamin Franklin Elem School,B
-8030,Vigo County School Corp,8537,Blanche E Fuqua Elementary School,B
-8030,Vigo County School Corp,8543,Hoosier Prairie Elementary School,B
-8030,Vigo County School Corp,8549,Lost Creek Elementary School,B
-8030,Vigo County School Corp,8561,Meadows Elementary School,C
-8030,Vigo County School Corp,8575,Ouabache Elementary School,B
-8030,Vigo County School Corp,8593,Riley Elementary School,A
-8030,Vigo County School Corp,8605,Sugar Grove Elementary School,B
-8030,Vigo County School Corp,8607,Terre Town Elementary School,B
-8030,Vigo County School Corp,8609,West Vigo Elementary School,B
-8030,Vigo County School Corp,8611,Booker T Washington Alt Sch,No Grade
-8030,Vigo County School Corp,8612,McLean Education Center (Alt),No Grade
-8045,Manchester Community Schools,8625,Manchester Jr-Sr High School,B
-8045,Manchester Community Schools,8633,Manchester Elementary School,B
-8045,Manchester Community Schools,8645,Manchester Intermediate School,B
-8050,M S D Wabash County Schools,8651,Northfield Jr-Sr High School,B
-8050,M S D Wabash County Schools,8655,Southwood Jr-Sr High School,B
-8050,M S D Wabash County Schools,8656,Southwood Elementary School,C
-8050,M S D Wabash County Schools,8657,Sharp Creek Elementary School,A
-8050,M S D Wabash County Schools,8673,White's Jr-Sr High School,No Grade
-8050,M S D Wabash County Schools,8677,Metro North Elementary School,A
-8060,Wabash City Schools,8693,Wabash High School,B
-8060,Wabash City Schools,8694,Wabash Middle School,C
-8060,Wabash City Schools,8706,O J Neighbours Elementary School,C
-8115,M S D Warren County,8729,Williamsport Elementary School,C
-8115,M S D Warren County,8733,Pine Village Elementary School,B
-8115,M S D Warren County,8737,Seeger Memorial Jr-Sr High School,A
-8115,M S D Warren County,8744,Warren Central Elementary School,B
-8130,Warrick County School Corp,8760,Castle South Middle School,A
-8130,Warrick County School Corp,8761,Yankeetown Elementary School,A
-8130,Warrick County School Corp,8764,John H Castle Elementary School,A
-8130,Warrick County School Corp,8769,Elberfeld Elementary School,A
-8130,Warrick County School Corp,8771,Tecumseh Middle School,A
-8130,Warrick County School Corp,8772,Tecumseh High School,A
-8130,Warrick County School Corp,8773,Lynnville Elementary School,B
-8130,Warrick County School Corp,8775,Castle North Middle School,A
-8130,Warrick County School Corp,8777,Loge Elementary School,A
-8130,Warrick County School Corp,8785,Tennyson Elementary School,B
-8130,Warrick County School Corp,8789,Boonville High School,B
-8130,Warrick County School Corp,8793,Boonville Middle School,A
-8130,Warrick County School Corp,8801,Oakdale Elementary School,A
-8130,Warrick County School Corp,8809,Castle High School,A
-8130,Warrick County School Corp,8813,Chandler Elementary School,B
-8130,Warrick County School Corp,8817,Newburgh Elementary School,A
-8130,Warrick County School Corp,8819,Sharon Elementary School,A
-8205,Salem Community Schools,8857,Salem High School,B
-8205,Salem Community Schools,8861,Salem Middle School,D
-8205,Salem Community Schools,8864,Bradie Shrum Elementary,C
-8215,East Washington School Corp,8904,East Washington Elementary School,B
-8215,East Washington School Corp,8905,Eastern High School,B
-8215,East Washington School Corp,8906,East Washington Middle School,C
-8220,West Washington School Corp,8869,West Washington Jr-Sr High School,B
-8220,West Washington School Corp,8894,West Washington Elementary School,A
-8305,Nettle Creek School Corporation,8985,Hagerstown Jr-Sr High School,B
-8305,Nettle Creek School Corporation,8989,Hagerstown Elementary School,A
-8355,Western Wayne Schools,8961,Lincoln Sr High School,A
-8355,Western Wayne Schools,8965,Lincoln Middle School,D
-8355,Western Wayne Schools,8971,Western Wayne Elementary School,C
-8360,Centerville-Abington Com Schs,8981,Centerville Sr High School,A
-8360,Centerville-Abington Com Schs,8982,Centerville-Abington Jr High Sch,B
-8360,Centerville-Abington Com Schs,8983,Centerville-Abington Elem School,B
-8360,Centerville-Abington Com Schs,8984,Rose Hamilton Elementary School,B
-8375,Northeastern Wayne Schools,8927,Northeastern High School,B
-8375,Northeastern Wayne Schools,8928,Northeastern Elementary School,A
-8375,Northeastern Wayne Schools,8929,Northeastern Middle School,A
-8385,Richmond Community Schools,8993,Richmond High School,B
-8385,Richmond Community Schools,8997,Test Intermediate School,D
-8385,Richmond Community Schools,9001,Dennis Intermediate School,D
-8385,Richmond Community Schools,9013,Charles Elementary School,B
-8385,Richmond Community Schools,9014,Crestdale Elementary School,B
-8385,Richmond Community Schools,9017,Fairview Elementary School,F
-8385,Richmond Community Schools,9038,Starr Elementary School,B
-8385,Richmond Community Schools,9045,Vaile Elementary School,D
-8385,Richmond Community Schools,9053,Westview Elementary School,C
-8425,Southern Wells Com Schools,9057,Southern Wells Elementary School,C
-8425,Southern Wells Com Schools,9058,Southern Wells Jr-Sr High School,B
-8435,Northern Wells Com Schools,9081,Ossian Elementary,B
-8435,Northern Wells Com Schools,9085,Lancaster Central School,A
-8435,Northern Wells Com Schools,9087,Norwell High School,A
-8435,Northern Wells Com Schools,9088,Norwell Middle School,B
-8445,M S D Bluffton-Harrison,9089,Bluffton High School,A
-8445,M S D Bluffton-Harrison,9093,Bluffton-Harrison Middle School,C
-8445,M S D Bluffton-Harrison,9098,Bluffton-Harrison Elementary Sch,C
-8515,North White School Corp,9119,North White Elementary School,B
-8515,North White School Corp,9122,North White Middle School,C
-8515,North White School Corp,9135,North White High School,B
-8525,Frontier School Corporation,9113,Frontier Elementary,A
-8525,Frontier School Corporation,9137,Frontier Jr-Sr High School,B
-8535,Tri-County School Corporation,3170,Tri-County Primary School,A
-8535,Tri-County School Corporation,9141,Tri-County Jr/Sr High School ,B
-8535,Tri-County School Corporation,9143,Tri-County Intermediate School,A
-8565,Twin Lakes School Corp,9129,Eastlawn Elementary School,B
-8565,Twin Lakes School Corp,9149,Twin Lakes Senior High School,B
-8565,Twin Lakes School Corp,9153,Roosevelt Middle School,B
-8565,Twin Lakes School Corp,9157,Oaklawn Elementary School,B
-8565,Twin Lakes School Corp,9163,Meadowlawn Elementary School,C
-8625,Smith-Green Community Schools,9193,Churubusco Jr-Sr High School,A
-8625,Smith-Green Community Schools,9197,Churubusco Elementary School,C
-8665,Whitley Co Cons Schools,9178,Little Turtle Elementary School,B
-8665,Whitley Co Cons Schools,9179,Coesse School,C
-8665,Whitley Co Cons Schools,9180,Indian Springs Middle School,B
-8665,Whitley Co Cons Schools,9186,Northern Heights Elementary School,C
-8665,Whitley Co Cons Schools,9187,Columbia City High School,B
-8665,Whitley Co Cons Schools,9196,Mary Raber Elementary School,C
-8810,CSUSA Howe,5639,Thomas Carr Howe Comm High School,C
-8815,CSUSA Manual,5481,Emmerich Manual High School,C
-8820,Edison Learning Roosevelt,4033,Theodore Roosevelt Car & Tech Acad,A
-8825,CSUSA Donnan,5572,Emma Donnan Middle School,C
-9010,Ignite Achievement Academy ,1806,Ignite Achievement Academy ,C
-9015,Purdue Polytechnic High School Ind,4271,Purdue Polytechnic High School Ind,No Grade
-9030,Otwell Miller Academy,2019,Otwell Miller Academy,No Grade
-9035,Indiana Connections Career Academy,7947,Indiana Connections Career Academy,No Grade
-9040,Avondale Meadows Middle School,7094,Avondale Meadows Middle School,A
-9045,J & R Phalen Leadership Academy ,4894,J & R Phalen Leadership Academy ,A
-9060,Paramount Community Heights ,0139,Paramount Community Heights ,No Grade
-9065,Allegiant Preparatory Academy,1002,Allegiant Preparatory Academy,No Grade
-9070,Gary Middle College West,1003,Gary Middle College West,No Grade
-9080,Vanguard Collegiate of Indy,1004,Vanguard Collegiate of Indy,No Grade
-9085,pilotED Schools,1006,pilotED Schools Bethel Park,No Grade
-9090,Matchbook Learning  ,1041,Matchbook Learning,No Grade
-9095,Urban ACT Academy,9094,Urban ACT Academy,No Grade
-9115,Kindezi Academy,1118,Kindezi Academy,No Grade
-9120,Insight School of Indiana,2528,Insight School of Indiana,C
-9145,Riverside High School,1122,Riverside High School,A
-9150,Circle City Prep Charter School,1126,Circle City Prep Charter School,No Grade
-9155,Indiana Virtual Pathways Academy,5468,Indiana Virtual Pathways Academy,No Grade
-9195,Timothy L. Johnson Academy Middle ,1039,Timothy L. Johnson Academy Middle ,A
-9200,Archdiocese of Indianapolis,A425,St Bartholomew School,A
-9200,Archdiocese of Indianapolis,A550,St John Paul II Catholic School,A
-9200,Archdiocese of Indianapolis,A560,Saint Anthony of Padua ,B
-9200,Archdiocese of Indianapolis,A570,Sacred Heart School,B
-9200,Archdiocese of Indianapolis,A575,Our Lady Of Providence High School,A
-9200,Archdiocese of Indianapolis,A680,Saint Nicholas School,A
-9200,Archdiocese of Indianapolis,A690,Saint Mary School,C
-9200,Archdiocese of Indianapolis,A700,Saint Lawrence School,B
-9200,Archdiocese of Indianapolis,A730,Saint Mary's School,A
-9200,Archdiocese of Indianapolis,B035,Saint Gabriel Catholic School,A
-9200,Archdiocese of Indianapolis,B050,Holy Family School,A
-9200,Archdiocese of Indianapolis,B060,Our Lady Of Perpetual School,A
-9200,Archdiocese of Indianapolis,B067,St Mary of-the-Knobs Catholic Sch,A
-9200,Archdiocese of Indianapolis,B095,Saint Michael School,A
-9200,Archdiocese of Indianapolis,B265,Saint Michael School,A
-9200,Archdiocese of Indianapolis,B280,Saint Joseph School,B
-9200,Archdiocese of Indianapolis,B285,Saint Malachy School,A
-9200,Archdiocese of Indianapolis,B300,Saint Susanna School,B
-9200,Archdiocese of Indianapolis,B440,Saint Ambrose School,B
-9200,Archdiocese of Indianapolis,B505,Shawe Memorial High School,A
-9200,Archdiocese of Indianapolis,B510,Pope John XXIII Elementary School,B
-9200,Archdiocese of Indianapolis,B515,Saint Mary School,B
-9200,Archdiocese of Indianapolis,B518,St Rose of Lima School,B
-9200,Archdiocese of Indianapolis,B535,Our Lady of the Greenwood School,A
-9200,Archdiocese of Indianapolis,B540,SS Francis and Clare Catholic Sch,A
-9200,Archdiocese of Indianapolis,C160,Saint Vincent DePaul School,A
-9200,Archdiocese of Indianapolis,C265,Nativity Catholic School,B
-9200,Archdiocese of Indianapolis,C280,Saint Lawrence School,C
-9200,Archdiocese of Indianapolis,C295,Saint Barnabas School,A
-9200,Archdiocese of Indianapolis,C300,Saint Jude Elementary School,A
-9200,Archdiocese of Indianapolis,C305,Saint Mark School,A
-9200,Archdiocese of Indianapolis,C310,Saint Roch School,B
-9200,Archdiocese of Indianapolis,C320,Roncalli High School,A
-9200,Archdiocese of Indianapolis,C360,Brebeuf Jesuit Preparatory School,A
-9200,Archdiocese of Indianapolis,C390,Holy Spirit School,B
-9200,Archdiocese of Indianapolis,C435,Saint Luke School,A
-9200,Archdiocese of Indianapolis,C440,Saint Matthew School,A
-9200,Archdiocese of Indianapolis,C445,Saint Monica School,B
-9200,Archdiocese of Indianapolis,C450,Saint Pius X School,A
-9200,Archdiocese of Indianapolis,C545,Holy Name Catholic School,C
-9200,Archdiocese of Indianapolis,C585,Christ The King School,A
-9200,Archdiocese of Indianapolis,C590,Holy Angels Catholic School,C
-9200,Archdiocese of Indianapolis,C595,Holy Cross Central School,C
-9200,Archdiocese of Indianapolis,C600,Immaculate Heart of Mary School,A
-9200,Archdiocese of Indianapolis,C605,Our Lady Of Lourdes School,B
-9200,Archdiocese of Indianapolis,C615,St Anthony Catholic School,A
-9200,Archdiocese of Indianapolis,C623,Providence Cristo Rey High School,B
-9200,Archdiocese of Indianapolis,C625,Central Catholic School,B
-9200,Archdiocese of Indianapolis,C645,Saint Joan Of Arc School,C
-9200,Archdiocese of Indianapolis,C650,St Michael The Archangel School,C
-9200,Archdiocese of Indianapolis,C655,Saint Philip Neri School,D
-9200,Archdiocese of Indianapolis,C665,Saint Simon The Apostle School,A
-9200,Archdiocese of Indianapolis,C670,St Therese Little Flower School,B
-9200,Archdiocese of Indianapolis,C675,Saint Thomas Aquinas School,A
-9200,Archdiocese of Indianapolis,C700,Cathedral High School,A
-9200,Archdiocese of Indianapolis,C705,Bishop Chatard High School,A
-9200,Archdiocese of Indianapolis,C710,Scecina Memorial High School,A
-9200,Archdiocese of Indianapolis,C715,Cardinal Ritter High School,A
-9200,Archdiocese of Indianapolis,C795,Saint Christopher School,A
-9200,Archdiocese of Indianapolis,C900,Saint Charles Boromeo School,A
-9200,Archdiocese of Indianapolis,D130,Saint Louis School,B
-9200,Archdiocese of Indianapolis,D135,Oldenburg Academy,B
-9200,Archdiocese of Indianapolis,D140,Saint Mary Elementary School,C
-9200,Archdiocese of Indianapolis,D335,Saint Joseph School,B
-9200,Archdiocese of Indianapolis,D720,Saint Patrick School,A
-9200,Archdiocese of Indianapolis,D840,Seton Catholic Elementary,A
-9200,Archdiocese of Indianapolis,D842,Seton Catholic High School,B
-9205,Diocese of Gary,B755,Aquinas School at St Andrew's,B
-9205,Diocese of Gary,B760,Andrean High School,A
-9205,Diocese of Gary,B775,Saint Michael School,A
-9205,Diocese of Gary,B780,Saint John Evangelist School,A
-9205,Diocese of Gary,B835,Saint Mary Catholic Comm School,A
-9205,Diocese of Gary,B865,St Stanislaus School,B
-9205,Diocese of Gary,B930,Saint Mary School,B
-9205,Diocese of Gary,B950,Saint Casimir School,C
-9205,Diocese of Gary,B960,Saint John Bosco School,B
-9205,Diocese of Gary,B965,Saint John The Baptist School,B
-9205,Diocese of Gary,B970,Bishop Noll Institute,A
-9205,Diocese of Gary,C025,Our Lady Of Grace School,B
-9205,Diocese of Gary,C060,Saint Thomas More School,A
-9205,Diocese of Gary,C105,Notre Dame Catholic School,A
-9205,Diocese of Gary,C110,Queen Of All Saints School,C
-9205,Diocese of Gary,C120,Saint Stanislaus Kostka School,B
-9205,Diocese of Gary,C125,Marquette Catholic High School,A
-9205,Diocese of Gary,D050,Saint Patrick School,A
-9205,Diocese of Gary,D065,Nativity of Our Savior School,A
-9205,Diocese of Gary,D085,Saint Paul Catholic School,A
-9210,Diocese of Lafayette Catholic Sch,A470,Sacred Heart School,A
-9210,Diocese of Lafayette Catholic Sch,A790,Saint Lawrence School,A
-9210,Diocese of Lafayette Catholic Sch,A795,Saint Mary School,A
-9210,Diocese of Lafayette Catholic Sch,B155,Saint Paul Parish School,C
-9210,Diocese of Lafayette Catholic Sch,B215,Our Lady Of Mt Carmel School,A
-9210,Diocese of Lafayette Catholic Sch,B216,Saint Maria Goretti School,A
-9210,Diocese of Lafayette Catholic Sch,B227,Saint Louis de Montfort School,A
-9210,Diocese of Lafayette Catholic Sch,B246,Our Lady of Grace School,A
-9210,Diocese of Lafayette Catholic Sch,B249,Guerin Catholic High School,A
-9210,Diocese of Lafayette Catholic Sch,B395,Sts Joan of Arc & Patrick School,A
-9210,Diocese of Lafayette Catholic Sch,B475,Saint Augustine School,A
-9210,Diocese of Lafayette Catholic Sch,C190,Saint Mary School,C
-9210,Diocese of Lafayette Catholic Sch,C211,Holy Cross School,A
-9210,Diocese of Lafayette Catholic Sch,D415,Central Catholic Jr-Sr High School,A
-9210,Diocese of Lafayette Catholic Sch,D420,Saint Boniface School,A
-9210,Diocese of Lafayette Catholic Sch,D425,Saint Lawrence Elementary School,A
-9210,Diocese of Lafayette Catholic Sch,D430,Saint Mary Cathedral School,A
-9215,Diocese of Evansville,A660,Washington Catholic Mid/High Sch,C
-9215,Diocese of Evansville,A665,Washington Catholic Elementary Sch,A
-9215,Diocese of Evansville,A871,Holy Trinity Catholic School,A
-9215,Diocese of Evansville,B105,St Joseph School,A
-9215,Diocese of Evansville,B115,Holy Cross School,B
-9215,Diocese of Evansville,B120,Saint James School,A
-9215,Diocese of Evansville,B125,Saints Peter & Paul School,A
-9215,Diocese of Evansville,B560,Rivet Middle & High School,A
-9215,Diocese of Evansville,B565,Flaget Elementary School,B
-9215,Diocese of Evansville,D095,St Matthew School,B
-9215,Diocese of Evansville,D100,St Philip School,A
-9215,Diocese of Evansville,D105,Saint Wendel School,A
-9215,Diocese of Evansville,D370,St Bernard Catholic School,B
-9215,Diocese of Evansville,D530,Mater Dei High School,A
-9215,Diocese of Evansville,D535,Reitz Memorial High School,A
-9215,Diocese of Evansville,D545,Annuc Cthlc Sch @ Christ the King,A
-9215,Diocese of Evansville,D550,Corpus Christi School,A
-9215,Diocese of Evansville,D555,Good Shepherd School,A
-9215,Diocese of Evansville,D560,Holy Redeemer School,A
-9215,Diocese of Evansville,D565,Holy Rosary School,A
-9215,Diocese of Evansville,D570,Annunciation Cthlc at Holy Spirit,C
-9215,Diocese of Evansville,D580,Westside Catholic School,A
-9215,Diocese of Evansville,D590,St Benedict Cathedral School,A
-9215,Diocese of Evansville,D605,Saint Joseph School,A
-9215,Diocese of Evansville,D610,Resurrection School,A
-9215,Diocese of Evansville,D815,Saint John The Baptist School,A
-9220,Diocese of Fort Wayne - South Bend,A035,Saint Joseph School,B
-9220,Diocese of Fort Wayne - South Bend,A104,Saint Elizabeth Seton Catholic Sch,A
-9220,Diocese of Fort Wayne - South Bend,A106,Our Lady School,A
-9220,Diocese of Fort Wayne - South Bend,A120,Bishop Dwenger High School,A
-9220,Diocese of Fort Wayne - South Bend,A125,Bishop Luers High School,A
-9220,Diocese of Fort Wayne - South Bend,A130,Most Precious Blood School,B
-9220,Diocese of Fort Wayne - South Bend,A135,Queen Of Angels School,B
-9220,Diocese of Fort Wayne - South Bend,A145,Saint Charles Borromeo School,B
-9220,Diocese of Fort Wayne - South Bend,A150,Saint John The Baptist School,A
-9220,Diocese of Fort Wayne - South Bend,A155,Saint Joseph Catholic School,A
-9220,Diocese of Fort Wayne - South Bend,A160,Saint Jude Elementary School,B
-9220,Diocese of Fort Wayne - South Bend,A175,Saint Therese School,C
-9220,Diocese of Fort Wayne - South Bend,A180,Saint Vincent DePaul School,A
-9220,Diocese of Fort Wayne - South Bend,A270,Saint Aloysius Catholic School,B
-9220,Diocese of Fort Wayne - South Bend,A340,Saint Rose of Lima School,C
-9220,Diocese of Fort Wayne - South Bend,A350,St Joseph Hessen Cassel Cath Sch,A
-9220,Diocese of Fort Wayne - South Bend,A355,Saint John The Baptist Catholic ,A
-9220,Diocese of Fort Wayne - South Bend,A360,Saint Louis Besancon Catholic Sch,B
-9220,Diocese of Fort Wayne - South Bend,A735,Saint Joseph School,A
-9220,Diocese of Fort Wayne - South Bend,A975,St Thomas The Apostle School,B
-9220,Diocese of Fort Wayne - South Bend,A980,St Vincent de Paul School,D
-9220,Diocese of Fort Wayne - South Bend,B020,St John Evangelist School,C
-9220,Diocese of Fort Wayne - South Bend,B418,Huntington Catholic School,C
-9220,Diocese of Fort Wayne - South Bend,B605,Sacred Heart School,B
-9220,Diocese of Fort Wayne - South Bend,C855,Saint Michael School,A
-9220,Diocese of Fort Wayne - South Bend,C980,Saint Mary Elementary School,A
-9220,Diocese of Fort Wayne - South Bend,D164,St Pius X Catholic School,A
-9220,Diocese of Fort Wayne - South Bend,D165,Marian High School,A
-9220,Diocese of Fort Wayne - South Bend,D177,Mishawaka Catholic School,B
-9220,Diocese of Fort Wayne - South Bend,D198,Queen of Peace School,B
-9220,Diocese of Fort Wayne - South Bend,D225,Saint Joseph High School,A
-9220,Diocese of Fort Wayne - South Bend,D230,Christ The King School,A
-9220,Diocese of Fort Wayne - South Bend,D235,Corpus Christi School,A
-9220,Diocese of Fort Wayne - South Bend,D240,Holy Cross School,B
-9220,Diocese of Fort Wayne - South Bend,D245,Holy Family School,B
-9220,Diocese of Fort Wayne - South Bend,D250,Our Lady Of Hungary School,B
-9220,Diocese of Fort Wayne - South Bend,D255,Saint Adalbert School,A
-9220,Diocese of Fort Wayne - South Bend,D260,Saint Anthony De Padua School,A
-9220,Diocese of Fort Wayne - South Bend,D265,Saint John The Baptist School,C
-9220,Diocese of Fort Wayne - South Bend,D270,Saint Joseph School,A
-9220,Diocese of Fort Wayne - South Bend,D275,Saint Jude Catholic School,A
-9220,Diocese of Fort Wayne - South Bend,D285,Saint Matthew Cathedral School,D
-9220,Diocese of Fort Wayne - South Bend,D805,Saint Bernard Elementary School,B
-9230,Lutheran Schools of Indiana,A040,St Peter Immanuel Lutheran School,B
-9230,Lutheran Schools of Indiana,A045,Wyneken Memorial Lutheran School,B
-9230,Lutheran Schools of Indiana,A195,Concordia Lutheran High School,A
-9230,Lutheran Schools of Indiana,A200,Suburban Bethlehem Lutheran School,C
-9230,Lutheran Schools of Indiana,A205,Concordia Lutheran School,C
-9230,Lutheran Schools of Indiana,A215,Emmanuel St Michael Lutheran Sch,A
-9230,Lutheran Schools of Indiana,A220,Emmaus Lutheran School,B
-9230,Lutheran Schools of Indiana,A225,Holy Cross Lutheran School,A
-9230,Lutheran Schools of Indiana,A235,Lutheran South Unity School,B
-9230,Lutheran Schools of Indiana,A245,Saint Paul Lutheran School,B
-9230,Lutheran Schools of Indiana,A248,Ascension Lutheran School,C
-9230,Lutheran Schools of Indiana,A250,Saint Peter's Lutheran School,A
-9230,Lutheran Schools of Indiana,A365,St John-Emmanuel Lutheran School,A
-9230,Lutheran Schools of Indiana,A370,Central Lutheran School,B
-9230,Lutheran Schools of Indiana,A375,Woodburn Lutheran School,A
-9230,Lutheran Schools of Indiana,A430,White Creek Lutheran School,A
-9230,Lutheran Schools of Indiana,A435,Saint Peter Lutheran School,A
-9230,Lutheran Schools of Indiana,A695,Saint John Ev Lutheran School,A
-9230,Lutheran Schools of Indiana,A985,Trinity Lutheran School,A
-9230,Lutheran Schools of Indiana,B260,Zion Lutheran School,No Grade
-9230,Lutheran Schools of Indiana,B275,Saint John Lutheran School,D
-9230,Lutheran Schools of Indiana,B367,Redeemer Lutheran School,A
-9230,Lutheran Schools of Indiana,B445,Immanuel Lutheran School,A
-9230,Lutheran Schools of Indiana,B450,Saint John Lutheran School,A
-9230,Lutheran Schools of Indiana,B452,Trinity Lutheran High School,A
-9230,Lutheran Schools of Indiana,B465,Lutheran Central School,A
-9230,Lutheran Schools of Indiana,B850,Trinity Lutheran School,C
-9230,Lutheran Schools of Indiana,B892,Ascension Lutheran Christian Schl,No Grade
-9230,Lutheran Schools of Indiana,C050,Trinity Lutheran School,C
-9230,Lutheran Schools of Indiana,C065,St Paul's Lutheran School,B
-9230,Lutheran Schools of Indiana,C150,Saint John Lutheran School,B
-9230,Lutheran Schools of Indiana,C267,Holy Cross Lutheran School,A
-9230,Lutheran Schools of Indiana,C270,Lutheran High School,A
-9230,Lutheran Schools of Indiana,C315,Calvary Lutheran School,A
-9230,Lutheran Schools of Indiana,C395,Trinity Lutheran School,C
-9230,Lutheran Schools of Indiana,C400,Saint John Ev Lutheran School,A
-9230,Lutheran Schools of Indiana,C512,Our Shepherd Lutheran School,C
-9230,Lutheran Schools of Indiana,C680,Emmaus Lutheran School,No Grade
-9230,Lutheran Schools of Indiana,C985,St John Lutheran School,B
-9230,Lutheran Schools of Indiana,D090,Immanuel Lutheran School,A
-9230,Lutheran Schools of Indiana,D317,Resurrection Lutheran Academy,A
-9230,Lutheran Schools of Indiana,D375,Saint Peter Lutheran School,B
-9230,Lutheran Schools of Indiana,D435,Saint James Lutheran School,B
-9230,Lutheran Schools of Indiana,D625,Evansville Lutheran School,B
-9240,The Oaks Academy,B297,The Oaks Academy - Brookside,B
-9240,The Oaks Academy,C773,The Oaks Academy - Fall Creek,B
-9240,The Oaks Academy,C774,The Oaks Academy - Middle School,A
-9310,Charter School of the Dunes,1535,Charter School of the Dunes,D
-9315,Signature School Inc,8295,Signature School Inc,A
-9320,Community Montessori Inc,1536,Community Montessori,B
-9325,Options Charter School - Carmel,2524,Options Charter School - Carmel,Appeal Pending
-9330,Irvington Community School,1537,Irvington Community School,C
-9350,Timothy L Johnson Academy,1539,Timothy L Johnson Academy,D
-9365,Enlace Academy,5667,Enlace Academy,A
-9380,Christel House Academy South,5874,Christel House Academy South,C
-9395,Christel House Academy West,5871,Christel House Academy West,D
-9400,KIPP Indy College Prep Middle,5860,KIPP Indy College Prep Middle,A
-9410,KIPP Indy Unite Elementary,5741,KIPP Indy Unite Elementary,No Grade
-9425,Tindley Genesis Academy,5621,Tindley Genesis Academy,A
-9430,Tindley Summit Academy,5629,Tindley Summit Academy,C
-9445,Charles A Tindley Accelerated Sch,6208,Charles A Tindley Accelerated Sch,A
-9460,Thea Bowman Leadership Academy,4022,Thea Bowman Leadership Academy,D
-9465,Rural Community Schools Inc,7951,Rural Community Academy,C
-9485,SE Neighborhood Sch of Excellence,5868,SE Neighborhood Sch of Excellence,D
-9495,Joshua Academy,8203,Joshua Academy,B
-9505,Indiana Agriculture and Technology,5472,Indiana Agriculture and Technology,No Grade
-9535,Gary Lighthouse Charter School,4130,Gary Lighthouse Charter School,C
-9545,21st Century Charter Sch of Gary,4164,21st Century Charter Sch of Gary,C
-9555,East Chicago Urban Enterprise Acad,3935,East Chicago Urban Enterprise Acad,D
-9575,Indpls Lighthouse Charter School,5523,Indpls Lighthouse Charter School,B
-9595,East Chicago Lighthouse Charter,3971,East Chicago Lighthouse,D
-9615,Andrew J Brown Academy,5488,Andrew J Brown Academy,C
-9620,Burris Laboratory School,1441,Burris Laboratory School,A
-9625,IN Acad for Sci Math & Humanities,1443,Indiana Academy for Sci Math Hmn ,A
-9640,Options Charter School Noblesville,2551,Options Charter School Noblesville,Appeal Pending
-9645,Avondale Meadows Academy,5716,Avondale Meadows Academy,D
-9650,Herron Charter,5724,Herron High School,A
-9655,Hope Academy,5292,Hope Academy,No Grade
-9665,Geist Montessori Academy,2572,Geist Montessori Academy,B
-9670,Indianapolis Metropolitan High Sch,5664,Indianapolis Metropolitan High Sch,B
-9680,Paramount School Of Excellence Inc,5508,Paramount Brookside ,A
-9685,Aspire Charter Academy,4043,Aspire Charter Academy,D
-9690,Renaissance Academy Charter School,4711,Renaissance Academy Charter School,B
-9705,Hammond Academy of Science & Tech,4486,Hammond Academy of Science & Tech,B
-9725,Canaan Community Academy,3312,Canaan Community Academy,D
-9730,Neighbors' New Vistas High School,6864,Neighbors' New Vistas High School,F
-9735,Inspire Academy - A Sch of Inquiry,1518,Inspire Academy - A Sch of Inquiry,D
-9740,Thurgood Marshall Leadership Acad,0138,Thurgood Marshall Leadership Acad,F
-9760,Smith Academy for Excellence,0242,Smith Academy for Excellence,D
-9770,Indianapolis Lighthouse East,5524,Indianapolis Lighthouse East,B
-9780,Indianapolis Academy of Excellence,5761,Indianapolis Academy of Excellence,F
-9785,IN Math & Science Academy,5837,IN Math & Science Academy,C
-9790,Anderson Preparatory Academy,5092,Anderson Preparatory Academy,B
-9795,Dr Robert H Faulkner Academy,2411,Dr Robert H Faulkner Academy,B
-9805,Hoosier Academy - Indianapolis,2527,Hoosier Academy - Indianapolis,C
-9835,The Bloomington Project School,6215,The Bloomington Project School,A
-9870,Discovery Charter School,6824,Discovery Charter School,B
-9875,Rock Creek Community Academy,0771,Rock Creek Community Academy,B
-9880,Career Academy High School,7567,Career Academy High School,A
-9885,Gary Middle College,4027,Gary Middle College,No Grade
-9890,Indiana Virtual School,2488,Indiana Virtual School,F
-9895,IN Math & Science Academy - North,5444,IN Math & Science Academy - North,C
-9905,Indiana Connections Academy,7944,Indiana Connections Academy,D
-9915,Marion Academy,5903,Marion Academy,No Grade
-9920,Damar Charter Academy,5191,Damar Charter Academy,No Grade
-9925,Phalen Leadership Academy - IN Inc,5496,Phalen Leadership Academy - IN Inc,A
-9935,Vision Academy,5899,Vision Academy,D
-9940,Tindley Collegiate Academy,5914,Tindley Collegiate Academy,A
-9945,Tindley Renaissance Academy,5926,Tindley Renaissance Academy,C
-9950,Dugger Union Community School Corp,7952,Dugger Union Community School Corp,C
-9955,Mays Community Academy,7231,Mays Community Academy,A
-9960,Success Academy Primary School,7562,Success Academy Primary School,B
-9965,Career Academy Middle School,7563,Career Academy Middle School,A
-9970,ACE Preparatory Academy,1111,ACE Preparatory Academy,No Grade
-9975,Global Preparatory Academy,1112,Global Preparatory Academy,No Grade
-9980,Steel City Academy,1113,Steel City Academy,A
-9985,Seven Oaks Classical School,1114,Seven Oaks Classical School,A
-9990,Heritage Institute of Arts & Tech,1116,Higher Institute of Arts & Tech,A
--999,Independent Non-Public Schools,A119,Dana Christian School ,No Grade
--999,Independent Non-Public Schools,A121,Riverview Adventist Christian Acad,No Grade
--999,Independent Non-Public Schools,A122,Illiana Christian High School,A
--999,Independent Non-Public Schools,A149,Apogee School For The Gifted ,No Grade
--999,Independent Non-Public Schools,A170,Blackhawk Christian Mdl/High Sch,A
--999,Independent Non-Public Schools,A172,Blackhawk Christian Elementary Sch,A
--999,Independent Non-Public Schools,A236,Cornerstone College Prep Sch,C
--999,Independent Non-Public Schools,A249,Central Christian School,B
--999,Independent Non-Public Schools,A260,Aboite Christian School,C
--999,Independent Non-Public Schools,A275,Crossroad Child & Family Services,No Grade
--999,Independent Non-Public Schools,A307,Horizon Christian Academy,F
--999,Independent Non-Public Schools,A352,Gateway Woods School,F
--999,Independent Non-Public Schools,A405,North Star Montessori School,No Grade
--999,Independent Non-Public Schools,A450,Columbus Christian School Inc,C
--999,Independent Non-Public Schools,A480,James E Davis School,F
--999,Independent Non-Public Schools,A724,Good Shepherd Christian Academy,A
--999,Independent Non-Public Schools,A740,Lakewood Park Christian School,A
--999,Independent Non-Public Schools,A746,Heritage Hall Christian School,B
--999,Independent Non-Public Schools,A875,Clinton Christian School,B
--999,Independent Non-Public Schools,A990,Elkhart Christian Academy,A
--999,Independent Non-Public Schools,B015,Bethany Christian School,A
--999,Independent Non-Public Schools,B045,Christian Academy of Indiana,B
--999,Independent Non-Public Schools,B085,Covington Christian School,C
--999,Independent Non-Public Schools,B118,Kinwell Academy Inc,No Grade
--999,Independent Non-Public Schools,B136,The King's Academy,B
--999,Independent Non-Public Schools,B145,Lakeview Christian School Inc,D
--999,Independent Non-Public Schools,B160,Eman Schools,A
--999,Independent Non-Public Schools,B161,Fishers Christian Academy,A
--999,Independent Non-Public Schools,B167,Paddock View Residential Center,No Grade
--999,Independent Non-Public Schools,B190,Indiana Academy,A
--999,Independent Non-Public Schools,B233,Transitions Academy,No Grade
--999,Independent Non-Public Schools,B248,Legacy Christian School,A
--999,Independent Non-Public Schools,B290,Bethesda Christian School,B
--999,Independent Non-Public Schools,B295,Kingsway Christian School,C
--999,Independent Non-Public Schools,B299,Legacy Learning Center,A
--999,Independent Non-Public Schools,B302,Universal School of Plainfield,No Grade
--999,Independent Non-Public Schools,B455,Sandy Creek Christian Academy ,A
--999,Independent Non-Public Schools,B469,Covenant Christian High School,A
--999,Independent Non-Public Schools,B470,DeMotte Christian School,A
--999,Independent Non-Public Schools,B483,Jay County Christian Academy,B
--999,Independent Non-Public Schools,B493,Christian Academy of Madison,C
--999,Independent Non-Public Schools,B557,Pierceton Woods Academy,No Grade
--999,Independent Non-Public Schools,B562,Southwest IN Regional Youth Vlg,F
--999,Independent Non-Public Schools,B595,Lakeland Christian Academy,B
--999,Independent Non-Public Schools,B600,Warsaw Christian School,A
--999,Independent Non-Public Schools,B725,Howe School,D
--999,Independent Non-Public Schools,B748,Faith Academy,F
--999,Independent Non-Public Schools,B764,Avicenna Academy,A
--999,Independent Non-Public Schools,B771,Crown Point Christian School,B
--999,Independent Non-Public Schools,B806,Ambassador Christian Academy,B
--999,Independent Non-Public Schools,B815,Calumet Christian School,D
--999,Independent Non-Public Schools,B821,Indiana Horizon Academy,No Grade
--999,Independent Non-Public Schools,B915,Mizpah Seventh-Day Adventist Acad,No Grade
--999,Independent Non-Public Schools,B951,Morning Star Academy,No Grade
--999,Independent Non-Public Schools,C020,Highland Christian School,A
--999,Independent Non-Public Schools,C130,Saint Paul Lutheran School,C
--999,Independent Non-Public Schools,C175,Indiana Christian Academy,D
--999,Independent Non-Public Schools,C215,Cross Street Christian School,B
--999,Independent Non-Public Schools,C223,Delaware Christian Academy,F
--999,Independent Non-Public Schools,C225,Liberty Christian School,B
--999,Independent Non-Public Schools,C226,Liberty Christian Elementary,C
--999,Independent Non-Public Schools,C250,Anderson Christian School,C
--999,Independent Non-Public Schools,C257,Damar Academy,No Grade
--999,Independent Non-Public Schools,C271,Curtis Wilson Primary School,A
--999,Independent Non-Public Schools,C275,Heritage Christian School,A
--999,Independent Non-Public Schools,C281,Cornerstone Baptist Academy,D
--999,Independent Non-Public Schools,C282,Horizon Christian School,C
--999,Independent Non-Public Schools,C325,Suburban Christian School,D
--999,Independent Non-Public Schools,C349,Southport Presbyterian Chrst Sch,B
--999,Independent Non-Public Schools,C375,Traders Point Christian Academy,B
--999,Independent Non-Public Schools,C396,Burge Terrace Christian School,B
--999,Independent Non-Public Schools,C455,Indianapolis Junior Academy,No Grade
--999,Independent Non-Public Schools,C475,Hasten Hebrew Acad of Indianapolis,A
--999,Independent Non-Public Schools,C495,Colonial Christian School,A
--999,Independent Non-Public Schools,C513,Islamic Academy of Indianapolis,No Grade
--999,Independent Non-Public Schools,C514,Crosspointe Christian Academy,C
--999,Independent Non-Public Schools,C527,Covenant Christian High School,A
--999,Independent Non-Public Schools,C561,Trinity Christian School,D
--999,Independent Non-Public Schools,C563,Shepherd Community Academy ,A
--999,Independent Non-Public Schools,C575,Central Christian Academy,D
--999,Independent Non-Public Schools,C580,Calvary Christian School,A
--999,Independent Non-Public Schools,C589,The Independence Academy,F
--999,Independent Non-Public Schools,C628,MTI School of Knowledge,C
--999,Independent Non-Public Schools,C677,International Sch of IN HS (9-12),No Grade
--999,Independent Non-Public Schools,C679,Indianapolis Southside Christian ,No Grade
--999,Independent Non-Public Schools,C690,Capitol City SDA Church School,B
--999,Independent Non-Public Schools,C699,TP Schools,A
--999,Independent Non-Public Schools,C791,School for Community Learning,C
--999,Independent Non-Public Schools,C905,Adventist Christian Elementary,C
--999,Independent Non-Public Schools,C910,Covenant Christian School,No Grade
--999,Independent Non-Public Schools,C927,Lighthouse Christian Academy,A
--999,Independent Non-Public Schools,C933,Clear Creek Christian School,B
--999,Independent Non-Public Schools,C940,Tabernacle Christian School,C
--999,Independent Non-Public Schools,C965,Mooresville Christian Academy,B
--999,Independent Non-Public Schools,C966,Greenwood Christian Academy,A
--999,Independent Non-Public Schools,D056,Shults-Lewis Child & Family Srvs,D
--999,Independent Non-Public Schools,D058,Midwest Academy MCYF,No Grade
--999,Independent Non-Public Schools,D063,Emmanuel Baptist Academy,No Grade
--999,Independent Non-Public Schools,D073,Victory Christian Academy,B
--999,Independent Non-Public Schools,D080,Portage Christian School,C
--999,Independent Non-Public Schools,D158,North Liberty Christian School,C
--999,Independent Non-Public Schools,D189,Covenant Christian School,A
--999,Independent Non-Public Schools,D195,South Bend Hebrew Day School,B
--999,Independent Non-Public Schools,D196,Bais Yaakov High School of Indiana,No Grade
--999,Independent Non-Public Schools,D217,Trinity School At Greenlawn,C
--999,Independent Non-Public Schools,D249,New Vision Christian Academy,C
--999,Independent Non-Public Schools,D281,Yeshiva of South Bend,No Grade
--999,Independent Non-Public Schools,D300,South Bend Jr Academy School,D
--999,Independent Non-Public Schools,D305,Community Baptist Christian School,B
--999,Independent Non-Public Schools,D310,Granger Christian School,B
--999,Independent Non-Public Schools,D315,Michiana Christian Academy,D
--999,Independent Non-Public Schools,D329,Grace Christian Academy Inc,D
--999,Independent Non-Public Schools,D440,Lafayette Christian School,B
--999,Independent Non-Public Schools,D451,T. C. Harris School,F
--999,Independent Non-Public Schools,D452,Faith Christian School,A
--999,Independent Non-Public Schools,D485,Evansville Christian School,A
--999,Independent Non-Public Schools,D489,Evansville Christian Sch Newburgh,A
--999,Independent Non-Public Schools,D525,Evansville Day School,A
--999,Independent Non-Public Schools,D676,Small World Learning Center,No Grade
--999,Independent Non-Public Schools,D725,Holy Cross School,F
--999,Independent Non-Public Schools,D748,Terre Haute Adventist School,F
--999,Independent Non-Public Schools,D862,Community Christian School,B
--999,Independent Non-Public Schools,D875,Kingdom Academy of Bluffton Inc,C
--999,Independent Non-Public Schools,D907,T.R.O.Y. Center,No Grade
--999,Independent Non-Public Schools,D912,Al Haqq Foundation Academy ,No Grade
--999,Independent Non-Public Schools,D913,Israel School of Excellence ,No Grade
--999,Independent Non-Public Schools,D918,Alyssum Montessori School,No Grade
+﻿Corp ,Corporation Name,2019 Hold Harmless Grade
+0015,Adams Central Community Schools,B
+0025,North Adams Community Schools,B
+0035,South Adams Schools,B
+0125,M S D Southwest Allen County Schls,A
+0225,Northwest Allen County Schools,A
+0235,Fort Wayne Community Schools,C
+0255,East Allen County Schools,B
+0365,Bartholomew Con School Corp,B
+0370,Flat Rock-Hawcreek School Corp,B
+0395,Benton Community School Corp,B
+0515,Blackford County Schools,B
+0615,Western Boone Co Com Sch Dist,B
+0630,Zionsville Community Schools,A
+0665,Lebanon Community School Corp,B
+0670,Brown County School Corporation,B
+0750,Carroll Consolidated School Corp,B
+0755,Delphi Community School Corp,B
+0775,Pioneer Regional School Corp,B
+0815,Southeastern School Corp,A
+0875,Logansport Community Sch Corp,B
+0940,West Clark Community Schools,B
+1000,Clarksville Community School Corp,B
+1010,Greater Clark County Schools,B
+1125,Clay Community Schools,B
+1150,Clinton Central School Corporation,Appeal Pending
+1160,Clinton Prairie School Corporation,C
+1170,Community Schools of Frankfort,Appeal Pending
+1180,Rossville Con School District,B
+1300,Crawford County Community Sch Corp,B
+1315,Barr-Reeve Community Schools Inc,A
+1375,North Daviess Com Schools,B
+1405,Washington Community Schools,C
+1560,Sunman-Dearborn Com Sch Corp,B
+1600,South Dearborn Community Sch Corp,B
+1620,Lawrenceburg Community School Corp,B
+1655,Decatur County Community Schools,B
+1730,Greensburg Community Schools,B
+1805,DeKalb Co Eastern Com Sch Dist,B
+1820,Garrett-Keyser-Butler Com Sch Corp,B
+1835,DeKalb Co Ctl United Sch Dist,B
+1875,Delaware Community School Corp,B
+1885,Wes-Del Community Schools,C
+1895,Liberty-Perry Community Sch Corp,B
+1900,Cowan Community School Corp,B
+1910,Yorktown Community Schools,B
+1940,Daleville Community Schools,C
+1970,Muncie Community Schools,No Grade
+2040,Northeast Dubois Co Sch Corp,B
+2100,Southeast Dubois Co Sch Corp,A
+2110,Southwest Dubois Co Sch Corp,B
+2120,Greater Jasper Consolidated Schs,A
+2155,Fairfield Community Schools,B
+2260,Baugo Community Schools,Appeal Pending
+2270,Concord Community Schools,B
+2275,Middlebury Community Schools,B
+2285,Wa-Nee Community Schools,A
+2305,Elkhart Community Schools,C
+2315,Goshen Community Schools,B
+2395,Fayette County School Corporation,B
+2400,New Albany-Floyd Co Con Sch,B
+2435,Attica Consolidated School Corp,B
+2440,Covington Community School Corp,B
+2455,Southeast Fountain School Corp,B
+2475,Franklin County Community Sch Corp,B
+2645,Rochester Community School Corp,C
+2650,Caston School Corporation,C
+2725,East Gibson School Corporation,C
+2735,North Gibson School Corp,C
+2765,South Gibson School Corporation,A
+2815,Eastbrook Community Sch Corp,B
+2825,Madison-Grant United School Corp,B
+2855,Mississinewa Community School Corp,B
+2865,Marion Community Schools,C
+2920,Bloomfield School District,B
+2940,Eastern Greene Schools,A
+2950,Linton-Stockton School Corporation,B
+2960,M S D Shakamak Schools,B
+2980,White River Valley School District,B
+3005,Hamilton Southeastern Schools,A
+3025,Hamilton Heights School Corp,B
+3030,Westfield-Washington Schools,A
+3055,Sheridan Community Schools,B
+3060,Carmel Clay Schools,A
+3070,Noblesville Schools,A
+3115,Southern Hancock Co Com Sch Corp,A
+3125,Greenfield-Central Com Schools,B
+3135,Mt Vernon Community School Corp,A
+3145,Eastern Hancock Co Com Sch Corp,A
+3160,Lanesville Community School Corp,B
+3180,North Harrison Com School Corp,B
+3190,South Harrison Com Schools,B
+3295,North West Hendricks Schools,A
+3305,Brownsburg Community School Corp,A
+3315,Avon Community School Corp,B
+3325,Danville Community School Corp,A
+3330,Plainfield Community School Corp,A
+3335,Mill Creek Community Sch Corp,A
+3405,Blue River Valley Schools,C
+3415,South Henry School Corp,C
+3435,Shenandoah School Corporation,B
+3445,New Castle Community School Corp,C
+3455,C A Beard Memorial School Corp,B
+3460,Taylor Community School Corp,C
+3470,Northwestern School Corp,B
+3480,Eastern Howard School Corporation,A
+3490,Western School Corp,A
+3500,Kokomo School Corporation,C
+3625,Huntington Co Com Sch Corp,B
+3640,Medora Community School Corp,F
+3675,Seymour Community Schools,B
+3695,Brownstown Cnt Com Sch Corp,B
+3710,Crothersville Community Schools,C
+3785,Kankakee Valley School Corp,B
+3815,Rensselaer Central School Corp,B
+3945,Jay School Corporation,B
+3995,Madison Consolidated Schools,C
+4000,Southwestern-Jefferson Co Con,C
+4015,Jennings County School Corporation,B
+4145,Clark-Pleasant Community Sch Corp,B
+4205,Center Grove Community School Corp,A
+4215,Edinburgh Community School Corp,B
+4225,Franklin Community School Corp,B
+4245,Greenwood Community Sch Corp,A
+4255,Nineveh-Hensley-Jackson United,B
+4315,North Knox School Corp,B
+4325,South Knox School Corp,B
+4335,Vincennes Community School Corp,C
+4345,Wawasee Community School Corp,Appeal Pending
+4415,Warsaw Community Schools,B
+4445,Tippecanoe Valley School Corp,B
+4455,Whitko Community School Corp,C
+4515,Prairie Heights Community Sch Corp,B
+4525,Westview School Corporation,A
+4535,Lakeland School Corporation,C
+4580,Hanover Community School Corp,A
+4590,River Forest Community Sch Corp,C
+4600,Merrillville Community School Corp,B
+4615,Lake Central School Corporation,A
+4645,Tri-Creek School Corporation,A
+4650,Lake Ridge New Tech Schools,C
+4660,Crown Point Community School Corp,A
+4670,School City of East Chicago,Appeal Pending
+4680,Lake Station Community Schools,C
+4690,Gary Community School Corp,Appeal Pending
+4700,Griffith Public Schools,B
+4710,School City of Hammond,C
+4720,School Town of Highland,B
+4730,School City of Hobart,B
+4740,School Town of Munster,A
+4760,School City of Whiting,C
+4805,New Prairie United School Corp,B
+4860,M S D of New Durham Township,B
+4915,Tri-Township Cons School Corp,B
+4925,Michigan City Area Schools,C
+4940,South Central Com School Corp,B
+4945,LaPorte Community School Corp,B
+5075,North Lawrence Com Schools,C
+5085,Mitchell Community Schools,C
+5245,Frankton-Lapel Community Schools,B
+5255,South Madison Com Sch Corp,B
+5265,Alexandria Community School Corp,B
+5275,Anderson Community School Corp,C
+5280,Elwood Community School Corp,C
+5300,M S D Decatur Township,C
+5310,Franklin Township Com Sch Corp,A
+5330,M S D Lawrence Township,C
+5340,Perry Township Schools,B
+5350,M S D Pike Township,B
+5360,M S D Warren Township,C
+5370,M S D Washington Township,C
+5375,M S D Wayne Township,C
+5380,Beech Grove City Schools,C
+5385,Indianapolis Public Schools,D
+5400,School Town of Speedway,A
+5455,Culver Community Schools Corp,B
+5470,Argos Community Schools,B
+5480,Bremen Public Schools,B
+5485,Plymouth Community School Corp,B
+5495,Triton School Corporation,B
+5520,Shoals Community School Corp,C
+5525,Loogootee Community Sch Corp,B
+5615,Maconaquah School Corp,B
+5620,North Miami Community Schools,B
+5625,Oak Hill United School Corp,B
+5635,Peru Community Schools,B
+5705,Richland-Bean Blossom C S C,B
+5740,Monroe County Community Sch Corp,B
+5835,North Montgomery Com Sch Corp,B
+5845,South Montgomery Com Sch Corp,A
+5855,Crawfordsville Community Schools,C
+5900,Monroe-Gregg School District,B
+5910,Eminence Community School Corp,C
+5925,M S D Martinsville Schools,B
+5930,Mooresville Con School Corp,B
+5945,North Newton School Corp,C
+5995,South Newton School Corp,B
+6055,Central Noble Com School Corp,C
+6060,East Noble School Corporation,B
+6065,West Noble School Corporation,B
+6080,Rising Sun-Ohio Co Com,A
+6145,Orleans Community Schools,B
+6155,Paoli Community School Corp,B
+6160,Springs Valley Com School Corp,C
+6195,Spencer-Owen Community Schools,C
+6260,Southwest Parke Com Sch Corp,C
+6325,Perry Central Com Schools Corp,B
+6340,Cannelton City Schools,D
+6350,Tell City-Troy Twp School Corp,B
+6375,North Central Parke Comm Schl Corp,C
+6445,Pike County School Corp,B
+6460,M S D Boone Township,B
+6470,Duneland School Corporation,B
+6510,East Porter County School Corp,A
+6520,Porter Township School Corp,B
+6530,Union Township School Corp,A
+6550,Portage Township Schools,B
+6560,Valparaiso Community Schools,A
+6590,M S D Mount Vernon,B
+6600,M S D North Posey Co Schools,B
+6620,Eastern Pulaski Community Sch Corp,B
+6630,West Central School Corp,C
+6705,South Putnam Community Schools,B
+6715,North Putnam Community Schools,B
+6750,Cloverdale Community Schools,B
+6755,Greencastle Community School Corp,C
+6795,Union School Corporation,F
+6805,Randolph Southern School Corp,B
+6820,Monroe Central School Corp,A
+6825,Randolph Central School Corp,B
+6835,Randolph Eastern School Corp,B
+6865,South Ripley Com Sch Corp,A
+6895,Batesville Community School Corp,A
+6900,Jac-Cen-Del Community Sch Corp,B
+6910,Milan Community Schools,B
+6995,Rush County Schools,B
+7150,John Glenn School Corporation,A
+7175,Penn-Harris-Madison School Corp,A
+7200,School City of Mishawaka,C
+7205,South Bend Community School Corp,C
+7215,Union-North United School Corp,Appeal Pending
+7230,Scott County School District 1,C
+7255,Scott County School District 2,B
+7285,Shelby Eastern Schools,B
+7350,Northwestern Con School Corp,B
+7360,Southwestern Con Sch Shelby Co,B
+7365,Shelbyville Central Schools,B
+7385,North Spencer County Sch Corp,A
+7445,South Spencer County Sch Corp,B
+7495,Oregon-Davis School Corp,C
+7515,North Judson-San Pierre Sch Corp,C
+7525,Knox Community School Corp,B
+7605,Fremont Community Schools,A
+7610,Hamilton Community Schools,C
+7615,M S D Steuben County,B
+7645,Northeast School Corp,B
+7715,Southwest School Corp,B
+7775,Switzerland County School Corp,C
+7855,Lafayette School Corporation,C
+7865,Tippecanoe School Corp,B
+7875,West Lafayette Com School Corp,A
+7935,Tri-Central Community Schools,C
+7945,Tipton Community School Corp,B
+7950,Union Co/Clg Corner Joint Sch Dist,B
+7995,Evansville Vanderburgh School Corp,C
+8010,North Vermillion Com Sch Corp,C
+8020,South Vermillion Com Sch Corp,C
+8030,Vigo County School Corp,B
+8045,Manchester Community Schools,B
+8050,M S D Wabash County Schools,B
+8060,Wabash City Schools,C
+8115,M S D Warren County,B
+8130,Warrick County School Corp,A
+8205,Salem Community Schools,C
+8215,East Washington School Corp,C
+8220,West Washington School Corp,B
+8305,Nettle Creek School Corporation,A
+8355,Western Wayne Schools,C
+8360,Centerville-Abington Com Schs,B
+8375,Northeastern Wayne Schools,A
+8385,Richmond Community Schools,C
+8425,Southern Wells Com Schools,B
+8435,Northern Wells Com Schools,B
+8445,M S D Bluffton-Harrison,B
+8515,North White School Corp,B
+8525,Frontier School Corporation,B
+8535,Tri-County School Corporation,B
+8565,Twin Lakes School Corp,B
+8625,Smith-Green Community Schools,B
+8665,Whitley Co Cons Schools,B
