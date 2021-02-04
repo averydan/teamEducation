@@ -13,6 +13,7 @@ What is the differnece between the reported graduation rate and the non-waiver g
 
 
 What is the relationship between waiver graduates and school grade?
+
 To beging, let's visualize the school grade data. See the multiline graph below. It showes the number of schools in each letter grade by year. Insights gleened from this visualization of the letter grades is that there may have been a change in grading schools from 2015 to 2016. We speculated that was a result of a new state administration elected to lead the education department. If I had another two weeks, I would look into this further. Another insight is that D and F schools do not add up to many schools.
 
 School Grade Count MultiLine Graph: (https://github.com/averydan/teamEducation/blob/main/Output_Data/schoolgradecount.png)
