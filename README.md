@@ -39,8 +39,7 @@ Finally, the average percent change from the reported graduation rate to the non
 
 What is the relationship between waiver graduatation rates and poverty?
 
-
-
+We looked at the relationship between graduation/non-waiver graduation rates and poverty and found some interesting trends.  We initially thought there would be a strong correlation between poverty rate and graduation rates, but we found that the correlation was actually moderate to week depending on year and waiver vs. non-waiver.  The correlation also weakened over time, which is not an expected result either.  Another trend we noticed in the data is that poverty rate decreased across the entire state between 2015 and 2019 while the non-waiver graduation rates also decreased, leading us to believe there are other underlying factors impacting the worsening graduation rates.  
 
 What is the relationship between waiver graduation rates and school budget?
 
