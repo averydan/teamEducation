@@ -1,7 +1,7 @@
 Group 1, project 1 
 
 Proposal:
-The goal is to dig into the graduation rates in Indiana schools by separating out those students who received diplomas verses those who received waivers.
+Our goal is to dig into the graduation rates in Indiana schools by separating out those students who received diplomas verses those who received waivers.
 We'll examine the relationships between diploma rates and federal school grade; diploma rates and school size; diploma rates and school attendance; and any trends and outliers that appear in the data.
 
 Data:
